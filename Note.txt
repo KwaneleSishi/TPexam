@@ -1,0 +1,2 @@
+The dataset I found made it hard for me to do Forcasting with ARIMA due to data not being univariate data with patterns, trends and seasonality.
+
