@@ -1,0 +1,1944 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,Cumulative_Savings10%_of_their_salary_annually
+2023,Senior,Full-time,Principal Data Scientist,80000,EUR,85847,ES,Full-Remote,ES,LARGE,8000.0
+2023,Mid/Intermediate level,Contractor,ML Engineer,30000,USD,30000,US,Full-Remote,US,SMALL,3000.0
+2023,Mid/Intermediate level,Contractor,ML Engineer,25500,USD,25500,US,Full-Remote,US,SMALL,2550.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,CA,Full-Remote,CA,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,CA,Full-Remote,CA,MEDIUM,12000.0
+2023,Senior,Full-time,Applied Scientist,222200,USD,222200,US,On-Site,US,LARGE,22220.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Senior,Full-time,Data Scientist,219000,USD,219000,CA,On-Site,CA,MEDIUM,21900.0
+2023,Senior,Full-time,Data Scientist,141000,USD,141000,CA,On-Site,CA,MEDIUM,14100.0
+2023,Senior,Full-time,Data Scientist,147100,USD,147100,US,On-Site,US,MEDIUM,14710.0
+2023,Senior,Full-time,Data Scientist,90700,USD,90700,US,On-Site,US,MEDIUM,9070.0
+2023,Senior,Full-time,Data Analyst,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Entry level,Full-time,Applied Scientist,213660,USD,213660,US,On-Site,US,LARGE,21366.0
+2023,Entry level,Full-time,Applied Scientist,130760,USD,130760,US,On-Site,US,LARGE,13076.0
+2023,Senior,Full-time,Data Modeler,147100,USD,147100,US,On-Site,US,MEDIUM,14710.0
+2023,Senior,Full-time,Data Modeler,90700,USD,90700,US,On-Site,US,MEDIUM,9070.0
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Research Engineer,275000,USD,275000,DE,On-Site,DE,MEDIUM,27500.0
+2023,Senior,Full-time,Research Engineer,174000,USD,174000,DE,On-Site,DE,MEDIUM,17400.0
+2023,Senior,Full-time,Analytics Engineer,230000,USD,230000,GB,Full-Remote,GB,MEDIUM,23000.0
+2023,Senior,Full-time,Analytics Engineer,143200,USD,143200,GB,Full-Remote,GB,MEDIUM,14320.0
+2023,Senior,Full-time,Business Intelligence Engineer,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Business Intelligence Engineer,156400,USD,156400,US,On-Site,US,MEDIUM,15640.0
+2023,Senior,Full-time,Machine Learning Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Machine Learning Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Strategist,90000,USD,90000,CA,On-Site,CA,MEDIUM,9000.0
+2023,Senior,Full-time,Data Strategist,72000,USD,72000,CA,On-Site,CA,MEDIUM,7200.0
+2023,Senior,Full-time,Data Engineer,253200,USD,253200,US,On-Site,US,MEDIUM,25320.0
+2023,Senior,Full-time,Data Engineer,90700,USD,90700,US,On-Site,US,MEDIUM,9070.0
+2023,Senior,Full-time,Computer Vision Engineer,342810,USD,342810,US,On-Site,US,MEDIUM,34281.0
+2023,Senior,Full-time,Computer Vision Engineer,184590,USD,184590,US,On-Site,US,MEDIUM,18459.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,162500,USD,162500,US,On-Site,US,MEDIUM,16250.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,105380,USD,105380,US,On-Site,US,MEDIUM,10538.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,64500,USD,64500,US,On-Site,US,MEDIUM,6450.0
+2023,Entry level,Full-time,Data Quality Analyst,100000,USD,100000,NG,Full-Remote,NG,LARGE,10000.0
+2023,Entry level,Full-time,Compliance Data Analyst,30000,USD,30000,NG,Full-Remote,NG,LARGE,3000.0
+2022,Mid/Intermediate level,Full-time,Machine Learning Engineer,1650000,INR,20984,IN,Half-Remote,IN,LARGE,330000.0
+2023,Entry level,Full-time,Applied Scientist,204620,USD,204620,US,On-Site,US,LARGE,20462.0
+2023,Entry level,Full-time,Applied Scientist,110680,USD,110680,US,On-Site,US,LARGE,11068.0
+2023,Senior,Full-time,Data Engineer,270703,USD,270703,US,On-Site,US,MEDIUM,27070.3
+2023,Senior,Full-time,Data Engineer,221484,USD,221484,US,On-Site,US,MEDIUM,22148.4
+2023,Senior,Full-time,Data Scientist,212750,USD,212750,US,Full-Remote,US,MEDIUM,21275.0
+2023,Senior,Full-time,Data Scientist,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Scientist,262000,USD,262000,US,Full-Remote,US,MEDIUM,26200.0
+2023,Senior,Full-time,Data Scientist,245000,USD,245000,US,Full-Remote,US,MEDIUM,24500.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183500,USD,183500,US,Full-Remote,US,MEDIUM,18350.0
+2023,Senior,Full-time,Data Scientist,218500,USD,218500,US,Full-Remote,US,MEDIUM,21850.0
+2023,Senior,Full-time,Data Scientist,199098,USD,199098,US,Full-Remote,US,MEDIUM,19909.8
+2023,Senior,Full-time,Data Engineer,203300,USD,203300,US,Full-Remote,US,MEDIUM,20330.0
+2023,Senior,Full-time,Data Engineer,123600,USD,123600,US,Full-Remote,US,MEDIUM,12360.0
+2023,Senior,Full-time,Research Engineer,189110,USD,189110,US,On-Site,US,MEDIUM,18911.0
+2023,Senior,Full-time,Research Engineer,139000,USD,139000,US,On-Site,US,MEDIUM,13900.0
+2023,Executive level,Full-time,Data Scientist,258750,USD,258750,US,On-Site,US,MEDIUM,25875.0
+2023,Executive level,Full-time,Data Scientist,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Engineer,231500,USD,231500,US,Full-Remote,US,MEDIUM,23150.0
+2023,Senior,Full-time,Data Engineer,166000,USD,166000,US,Full-Remote,US,MEDIUM,16600.0
+2023,Senior,Full-time,Data Scientist,172500,USD,172500,US,Full-Remote,US,MEDIUM,17250.0
+2023,Senior,Full-time,Data Scientist,110500,USD,110500,US,Full-Remote,US,MEDIUM,11050.0
+2023,Senior,Full-time,Data Engineer,238000,USD,238000,US,On-Site,US,MEDIUM,23800.0
+2023,Senior,Full-time,Data Engineer,176000,USD,176000,US,On-Site,US,MEDIUM,17600.0
+2023,Senior,Full-time,Data Engineer,237000,USD,237000,US,Full-Remote,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Engineer,201450,USD,201450,US,Full-Remote,US,MEDIUM,20145.0
+2023,Senior,Full-time,Applied Scientist,309400,USD,309400,US,On-Site,US,LARGE,30940.0
+2023,Senior,Full-time,Applied Scientist,159100,USD,159100,US,On-Site,US,LARGE,15910.0
+2023,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Engineer,81500,USD,81500,US,On-Site,US,MEDIUM,8150.0
+2023,Senior,Full-time,Data Scientist,237000,USD,237000,US,Full-Remote,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Scientist,201450,USD,201450,US,Full-Remote,US,MEDIUM,20145.0
+2023,Senior,Full-time,Computer Vision Engineer,280000,USD,280000,US,On-Site,US,MEDIUM,28000.0
+2023,Senior,Full-time,Computer Vision Engineer,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Data Architect,280100,USD,280100,US,Full-Remote,US,MEDIUM,28010.0
+2023,Senior,Full-time,Data Architect,168100,USD,168100,US,Full-Remote,US,MEDIUM,16810.0
+2023,Senior,Full-time,Data Engineer,193500,USD,193500,US,Full-Remote,US,MEDIUM,19350.0
+2023,Senior,Full-time,Data Engineer,139000,USD,139000,US,Full-Remote,US,MEDIUM,13900.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,510000,HKD,65062,HK,On-Site,HK,LARGE,51000.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,PT,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Applied Machine Learning Engineer,65000,EUR,69751,IN,Full-Remote,DE,SMALL,6500.0
+2022,Entry level,Full-time,AI Developer,300000,USD,300000,IN,Half-Remote,IN,LARGE,60000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,90000,EUR,96578,NL,Full-Remote,NL,LARGE,9000.0
+2023,Senior,Full-time,Business Intelligence Engineer,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Business Intelligence Engineer,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Data Engineer,225000,USD,225000,US,Full-Remote,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Engineer,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Engineer,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,45000,EUR,48289,ES,On-Site,ES,MEDIUM,4500.0
+2023,Senior,Full-time,Data Scientist,36000,EUR,38631,ES,On-Site,ES,MEDIUM,3600.0
+2023,Senior,Full-time,Data Scientist,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Senior,Full-time,Data Scientist,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Entry level,Full-time,Machine Learning Engineer,163196,USD,163196,US,On-Site,US,MEDIUM,16319.6
+2023,Entry level,Full-time,Machine Learning Engineer,145885,USD,145885,US,On-Site,US,MEDIUM,14588.5
+2023,Senior,Full-time,Data Engineer,217000,USD,217000,US,Full-Remote,US,MEDIUM,21700.0
+2023,Senior,Full-time,Data Engineer,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Analyst,202800,USD,202800,US,On-Site,US,LARGE,20280.0
+2023,Senior,Full-time,Data Analyst,104300,USD,104300,US,On-Site,US,LARGE,10430.0
+2023,Senior,Full-time,Data Analyst,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Analyst,65000,USD,65000,US,On-Site,US,MEDIUM,6500.0
+2023,Senior,Full-time,Data Engineer,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Engineer,132300,USD,132300,US,On-Site,US,MEDIUM,13230.0
+2023,Senior,Full-time,Data Engineer,179170,USD,179170,US,On-Site,US,MEDIUM,17917.0
+2023,Senior,Full-time,Data Engineer,94300,USD,94300,US,On-Site,US,MEDIUM,9430.0
+2023,Senior,Full-time,Analytics Engineer,152500,USD,152500,US,On-Site,US,MEDIUM,15250.0
+2023,Senior,Full-time,Analytics Engineer,116450,USD,116450,US,On-Site,US,MEDIUM,11645.0
+2023,Senior,Full-time,Data Engineer,247300,USD,247300,US,On-Site,US,MEDIUM,24730.0
+2023,Senior,Full-time,Data Engineer,133800,USD,133800,US,On-Site,US,MEDIUM,13380.0
+2023,Senior,Full-time,Research Engineer,203000,USD,203000,US,On-Site,US,MEDIUM,20300.0
+2023,Senior,Full-time,Research Engineer,133000,USD,133000,US,On-Site,US,MEDIUM,13300.0
+2023,Entry level,Full-time,Research Scientist,220000,USD,220000,US,Half-Remote,US,LARGE,22000.0
+2022,Entry level,Full-time,Machine Learning Engineer,54000,CHF,56536,CH,Full-Remote,CH,SMALL,10800.0
+2023,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Analytics Engineer,289800,USD,289800,US,On-Site,US,MEDIUM,28980.0
+2023,Senior,Full-time,Analytics Engineer,214000,USD,214000,US,On-Site,US,MEDIUM,21400.0
+2023,Senior,Full-time,Analytics Engineer,179820,USD,179820,US,On-Site,US,MEDIUM,17982.0
+2023,Senior,Full-time,Analytics Engineer,143860,USD,143860,US,On-Site,US,MEDIUM,14386.0
+2023,Senior,Full-time,Machine Learning Engineer,283200,USD,283200,US,Full-Remote,US,MEDIUM,28320.0
+2023,Senior,Full-time,Machine Learning Engineer,188800,USD,188800,US,Full-Remote,US,MEDIUM,18880.0
+2023,Senior,Full-time,Analytics Engineer,289800,USD,289800,US,On-Site,US,MEDIUM,28980.0
+2023,Senior,Full-time,Analytics Engineer,214200,USD,214200,US,On-Site,US,MEDIUM,21420.0
+2023,Senior,Full-time,Data Engineer,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Engineer,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Manager,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Engineer,161800,USD,161800,US,Full-Remote,US,MEDIUM,16180.0
+2023,Senior,Full-time,Data Engineer,141600,USD,141600,US,Full-Remote,US,MEDIUM,14160.0
+2023,Senior,Full-time,Machine Learning Engineer,342300,USD,342300,US,On-Site,US,LARGE,34230.0
+2023,Senior,Full-time,Machine Learning Engineer,176100,USD,176100,US,On-Site,US,LARGE,17610.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,70000,USD,70000,US,Full-Remote,US,MEDIUM,7000.0
+2023,Entry level,Full-time,Data Engineer,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Engineer,65000,USD,65000,US,On-Site,US,MEDIUM,6500.0
+2023,Senior,Full-time,Data Scientist,138784,USD,138784,US,Full-Remote,US,MEDIUM,13878.4
+2023,Senior,Full-time,Data Scientist,83270,USD,83270,US,Full-Remote,US,MEDIUM,8327.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2023,Entry level,Full-time,Data Analyst,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Analyst,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Data Analyst,138900,USD,138900,US,On-Site,US,MEDIUM,13890.0
+2023,Senior,Full-time,Machine Learning Engineer,318300,USD,318300,US,Full-Remote,US,MEDIUM,31830.0
+2023,Senior,Full-time,Machine Learning Engineer,212200,USD,212200,US,Full-Remote,US,MEDIUM,21220.0
+2023,Senior,Full-time,Data Engineer,95000,USD,95000,US,Full-Remote,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Scientist,195000,USD,195000,US,On-Site,US,MEDIUM,19500.0
+2023,Senior,Full-time,Data Scientist,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Analytics Engineer,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Senior,Full-time,Analytics Engineer,143200,USD,143200,US,On-Site,US,MEDIUM,14320.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,70000,USD,70000,US,Full-Remote,US,MEDIUM,7000.0
+2023,Mid/Intermediate level,Full-time,Business Data Analyst,105000,USD,105000,US,Half-Remote,US,LARGE,10500.0
+2023,Mid/Intermediate level,Full-time,Applied Data Scientist,1700000,INR,20670,IN,Full-Remote,IN,LARGE,170000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,38000,GBP,46178,GB,On-Site,GB,MEDIUM,3800.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,35000,GBP,42533,GB,On-Site,GB,MEDIUM,3500.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Analyst,168400,USD,168400,US,On-Site,US,MEDIUM,16840.0
+2023,Senior,Full-time,Data Analyst,105200,USD,105200,US,On-Site,US,MEDIUM,10520.0
+2023,Senior,Full-time,Applied Scientist,309400,USD,309400,US,On-Site,US,LARGE,30940.0
+2023,Senior,Full-time,Applied Scientist,159100,USD,159100,US,On-Site,US,LARGE,15910.0
+2023,Senior,Full-time,Machine Learning Engineer,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,162500,USD,162500,US,On-Site,US,MEDIUM,16250.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Analytics Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Analytics Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Applied Scientist,222200,USD,222200,US,On-Site,US,LARGE,22220.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Senior,Full-time,Data Analyst,45000,GBP,54685,CF,Full-Remote,CF,MEDIUM,4500.0
+2023,Senior,Full-time,Data Analyst,35000,GBP,42533,CF,Full-Remote,CF,MEDIUM,3500.0
+2023,Senior,Full-time,Data Engineer,241000,USD,241000,US,On-Site,US,MEDIUM,24100.0
+2023,Senior,Full-time,Data Engineer,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Engineer,220000,USD,220000,US,Full-Remote,US,MEDIUM,22000.0
+2023,Senior,Full-time,Data Engineer,190000,USD,190000,US,Full-Remote,US,MEDIUM,19000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,55000,GBP,66837,GB,On-Site,GB,MEDIUM,5500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,45000,GBP,54685,GB,On-Site,GB,MEDIUM,4500.0
+2020,Executive level,Full-time,Staff Data Analyst,15000,USD,15000,NG,On-Site,CA,MEDIUM,6000.0
+2023,Mid/Intermediate level,Full-time,ETL Engineer,70000,GBP,85066,GB,Full-Remote,GB,MEDIUM,7000.0
+2023,Mid/Intermediate level,Full-time,ETL Engineer,47500,GBP,57723,GB,Full-Remote,GB,MEDIUM,4750.0
+2023,Entry level,Full-time,Data Analyst,85000,USD,85000,US,Full-Remote,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,300000,USD,300000,US,On-Site,US,MEDIUM,30000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Scientist,228000,USD,228000,US,On-Site,US,MEDIUM,22800.0
+2023,Senior,Full-time,Data Scientist,186000,USD,186000,US,On-Site,US,MEDIUM,18600.0
+2023,Senior,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Mid/Intermediate level,Full-time,Research Engineer,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Mid/Intermediate level,Full-time,Research Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Architect,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Architect,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Architect,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Architect,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data DevOps Engineer,50000,EUR,53654,FR,Half-Remote,FR,SMALL,5000.0
+2023,Executive level,Full-time,Data Engineer,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Executive level,Full-time,Data Engineer,205000,USD,205000,US,On-Site,US,MEDIUM,20500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Engineer,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Computer Vision Engineer,215000,USD,215000,US,On-Site,US,MEDIUM,21500.0
+2023,Senior,Full-time,Computer Vision Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Machine Learning Engineer,247500,USD,247500,US,On-Site,US,MEDIUM,24750.0
+2023,Senior,Full-time,Machine Learning Engineer,172200,USD,172200,US,On-Site,US,MEDIUM,17220.0
+2023,Senior,Full-time,Data Scientist,224000,USD,224000,CA,On-Site,CA,MEDIUM,22400.0
+2023,Senior,Full-time,Data Scientist,176000,USD,176000,CA,On-Site,CA,MEDIUM,17600.0
+2023,Senior,Full-time,Data Analyst,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Entry level,Full-time,Data Engineer,1400000,INR,17022,IN,Full-Remote,IN,LARGE,140000.0
+2023,Senior,Full-time,Applied Data Scientist,100000,AUD,68318,AU,Full-Remote,FI,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,AI Developer,100000,SGD,75020,FI,On-Site,FI,MEDIUM,10000.0
+2023,Senior,Full-time,Data Analyst,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Analyst,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,128000,USD,128000,US,On-Site,US,MEDIUM,12800.0
+2023,Senior,Full-time,Data Engineer,81500,USD,81500,US,On-Site,US,MEDIUM,8150.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Engineer,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Executive level,Full-time,Head of Data,329500,USD,329500,US,On-Site,US,MEDIUM,32950.0
+2023,Executive level,Full-time,Head of Data,269600,USD,269600,US,On-Site,US,MEDIUM,26960.0
+2023,Senior,Full-time,Data Quality Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Quality Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Scientist,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Scientist,162500,USD,162500,US,On-Site,US,MEDIUM,16250.0
+2023,Mid/Intermediate level,Full-time,AI Developer,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Executive level,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Executive level,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Scientist,203500,USD,203500,US,On-Site,US,MEDIUM,20350.0
+2023,Senior,Full-time,Data Scientist,152000,USD,152000,US,On-Site,US,MEDIUM,15200.0
+2023,Senior,Full-time,Data Scientist,239000,USD,239000,US,On-Site,US,LARGE,23900.0
+2023,Senior,Full-time,Data Scientist,122900,USD,122900,US,On-Site,US,LARGE,12290.0
+2023,Senior,Full-time,Data Scientist,237000,USD,237000,US,On-Site,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Science Manager,191765,USD,191765,US,On-Site,US,MEDIUM,19176.5
+2023,Senior,Full-time,Data Science Manager,134236,USD,134236,US,On-Site,US,MEDIUM,13423.6
+2023,Senior,Full-time,Analytics Engineer,190000,USD,190000,US,Full-Remote,US,MEDIUM,19000.0
+2023,Senior,Full-time,Analytics Engineer,112000,USD,112000,US,Full-Remote,US,MEDIUM,11200.0
+2022,Senior,Full-time,Data Scientist,84000,EUR,88256,ES,Full-Remote,GB,LARGE,16800.0
+2023,Entry level,Full-time,Data Engineer,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Engineer,65000,USD,65000,US,On-Site,US,MEDIUM,6500.0
+2023,Senior,Full-time,Data Analyst,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Analyst,105500,USD,105500,US,On-Site,US,MEDIUM,10550.0
+2023,Senior,Full-time,Research Engineer,293000,USD,293000,US,On-Site,US,MEDIUM,29300.0
+2023,Senior,Full-time,Research Engineer,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Analyst,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Engineer,220000,USD,220000,US,Full-Remote,US,MEDIUM,22000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Analyst,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Analyst,148500,USD,148500,US,On-Site,US,MEDIUM,14850.0
+2023,Senior,Full-time,Data Scientist,45000,EUR,48289,ES,On-Site,ES,MEDIUM,4500.0
+2023,Senior,Full-time,Data Scientist,36000,EUR,38631,ES,On-Site,ES,MEDIUM,3600.0
+2023,Senior,Full-time,Data Engineer,240500,USD,240500,US,On-Site,US,LARGE,24050.0
+2023,Senior,Full-time,Data Engineer,123700,USD,123700,US,On-Site,US,LARGE,12370.0
+2023,Senior,Full-time,Analytics Engineer,152900,USD,152900,US,Full-Remote,US,MEDIUM,15290.0
+2023,Senior,Full-time,Analytics Engineer,117100,USD,117100,US,Full-Remote,US,MEDIUM,11710.0
+2023,Senior,Full-time,Analytics Engineer,173000,USD,173000,US,Full-Remote,US,MEDIUM,17300.0
+2023,Senior,Full-time,Analytics Engineer,113000,USD,113000,US,Full-Remote,US,MEDIUM,11300.0
+2023,Senior,Full-time,Applied Scientist,260000,USD,260000,US,On-Site,US,LARGE,26000.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Executive level,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Executive level,Full-time,Data Engineer,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Senior,Full-time,Applied Scientist,260000,USD,260000,US,On-Site,US,LARGE,26000.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Senior,Full-time,Research Scientist,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Research Scientist,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Applied Scientist,205000,USD,205000,US,Full-Remote,US,MEDIUM,20500.0
+2023,Senior,Full-time,Applied Scientist,184000,USD,184000,US,Full-Remote,US,MEDIUM,18400.0
+2023,Senior,Full-time,Data Analyst,149500,USD,149500,US,Full-Remote,US,MEDIUM,14950.0
+2023,Senior,Full-time,Data Analyst,127075,USD,127075,US,Full-Remote,US,MEDIUM,12707.5
+2023,Senior,Full-time,Data Scientist,195000,USD,195000,US,On-Site,US,MEDIUM,19500.0
+2023,Senior,Full-time,Data Scientist,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,219535,USD,219535,US,Full-Remote,US,MEDIUM,21953.5
+2023,Senior,Full-time,Data Engineer,146115,USD,146115,US,Full-Remote,US,MEDIUM,14611.5
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Scientist,199000,USD,199000,US,On-Site,US,MEDIUM,19900.0
+2023,Senior,Full-time,Data Scientist,162000,USD,162000,US,On-Site,US,MEDIUM,16200.0
+2023,Senior,Full-time,Applied Scientist,222200,USD,222200,US,On-Site,US,LARGE,22220.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Executive level,Full-time,Analytics Engineer,221000,USD,221000,US,Full-Remote,US,MEDIUM,22100.0
+2023,Executive level,Full-time,Analytics Engineer,153000,USD,153000,US,Full-Remote,US,MEDIUM,15300.0
+2023,Senior,Full-time,Data Analyst,187000,USD,187000,US,On-Site,US,MEDIUM,18700.0
+2023,Senior,Full-time,Data Analyst,128000,USD,128000,US,On-Site,US,MEDIUM,12800.0
+2023,Senior,Full-time,Research Scientist,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Research Scientist,136000,USD,136000,US,On-Site,US,MEDIUM,13600.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,179000,USD,179000,US,On-Site,US,MEDIUM,17900.0
+2023,Senior,Full-time,Data Engineer,109000,USD,109000,US,On-Site,US,MEDIUM,10900.0
+2023,Senior,Full-time,Data Scientist,245000,USD,245000,US,On-Site,US,MEDIUM,24500.0
+2023,Senior,Full-time,Data Scientist,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Analyst,142000,USD,142000,US,Full-Remote,US,MEDIUM,14200.0
+2023,Senior,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Manager,198800,USD,198800,US,On-Site,US,MEDIUM,19880.0
+2023,Senior,Full-time,Data Manager,105200,USD,105200,US,On-Site,US,MEDIUM,10520.0
+2023,Senior,Full-time,Data Analyst,125000,USD,125000,US,Full-Remote,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Analyst,112000,USD,112000,US,Full-Remote,US,MEDIUM,11200.0
+2023,Senior,Full-time,Data Scientist,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Data Scientist,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Manager,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Manager,86000,USD,86000,US,Full-Remote,US,MEDIUM,8600.0
+2023,Senior,Full-time,Data Scientist,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Analyst,139000,USD,139000,US,On-Site,US,MEDIUM,13900.0
+2023,Senior,Full-time,Data Analyst,106000,USD,106000,US,On-Site,US,MEDIUM,10600.0
+2023,Entry level,Full-time,Data Analyst,55000,CAD,40663,CA,On-Site,CA,LARGE,5500.0
+2022,Senior,Full-time,AI Developer,275000,USD,275000,CA,On-Site,CA,SMALL,55000.0
+2023,Senior,Freelancer,Machine Learning Researcher,50000,USD,50000,UA,Half-Remote,UA,SMALL,5000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,280700,USD,280700,US,Full-Remote,US,MEDIUM,28070.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,150450,USD,150450,US,Full-Remote,US,MEDIUM,15045.0
+2023,Entry level,Full-time,Data Scientist,70000,CAD,51753,CA,Full-Remote,CA,LARGE,7000.0
+2023,Senior,Full-time,Data Architect,250500,USD,250500,US,On-Site,US,MEDIUM,25050.0
+2023,Senior,Full-time,Data Architect,159500,USD,159500,US,On-Site,US,MEDIUM,15950.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Analyst,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Analyst,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Entry level,Full-time,Data Scientist,130001,USD,130001,US,Full-Remote,US,MEDIUM,13000.1
+2023,Entry level,Full-time,Data Scientist,71907,USD,71907,US,Full-Remote,US,MEDIUM,7190.7
+2023,Mid/Intermediate level,Full-time,Data Scientist,93918,USD,93918,US,Full-Remote,US,MEDIUM,9391.8
+2023,Mid/Intermediate level,Full-time,Data Scientist,51962,USD,51962,US,Full-Remote,US,MEDIUM,5196.2
+2023,Senior,Full-time,Data Analyst,175000,USD,175000,CA,Full-Remote,CA,MEDIUM,17500.0
+2023,Senior,Full-time,Data Analyst,135000,USD,135000,CA,Full-Remote,CA,MEDIUM,13500.0
+2023,Entry level,Full-time,Data Engineer,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Engineer,65000,USD,65000,US,On-Site,US,MEDIUM,6500.0
+2023,Senior,Full-time,Machine Learning Engineer,257000,USD,257000,US,On-Site,US,MEDIUM,25700.0
+2023,Senior,Full-time,Machine Learning Engineer,147000,USD,147000,US,On-Site,US,MEDIUM,14700.0
+2023,Senior,Full-time,Data Engineer,222000,USD,222000,US,Full-Remote,US,MEDIUM,22200.0
+2023,Senior,Full-time,Data Engineer,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,203000,USD,203000,US,Full-Remote,US,MEDIUM,20300.0
+2023,Senior,Full-time,Data Scientist,133200,USD,133200,US,Full-Remote,US,MEDIUM,13320.0
+2023,Entry level,Full-time,Applied Scientist,213660,USD,213660,US,On-Site,US,LARGE,21366.0
+2023,Entry level,Full-time,Applied Scientist,130760,USD,130760,US,On-Site,US,LARGE,13076.0
+2023,Senior,Full-time,Data Engineer,221000,USD,221000,US,On-Site,US,MEDIUM,22100.0
+2023,Senior,Full-time,Data Engineer,147000,USD,147000,US,On-Site,US,MEDIUM,14700.0
+2023,Senior,Full-time,Data Quality Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Quality Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Scientist,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Scientist,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Data Scientist,238000,USD,238000,US,Full-Remote,US,MEDIUM,23800.0
+2023,Senior,Full-time,Data Scientist,156000,USD,156000,US,Full-Remote,US,MEDIUM,15600.0
+2023,Senior,Full-time,Machine Learning Engineer,304000,USD,304000,US,Full-Remote,US,MEDIUM,30400.0
+2023,Senior,Full-time,Machine Learning Engineer,199000,USD,199000,US,Full-Remote,US,MEDIUM,19900.0
+2023,Mid/Intermediate level,Full-time,Big Data Engineer,45000,EUR,48289,ES,Full-Remote,ES,MEDIUM,4500.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,161200,GBP,195895,GB,On-Site,GB,MEDIUM,16120.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,84570,GBP,102772,GB,On-Site,GB,MEDIUM,8457.0
+2023,Senior,Full-time,Data Engineer,240000,USD,240000,US,On-Site,US,MEDIUM,24000.0
+2023,Senior,Full-time,Data Engineer,183600,USD,183600,US,On-Site,US,MEDIUM,18360.0
+2023,Mid/Intermediate level,Full-time,Data Specialist,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Specialist,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Engineer,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Analytics Manager,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Analytics Manager,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Machine Learning Engineer,289076,USD,289076,US,On-Site,US,MEDIUM,28907.6
+2023,Senior,Full-time,Machine Learning Engineer,202353,USD,202353,US,On-Site,US,MEDIUM,20235.3
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Analyst,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Analyst,106000,USD,106000,US,On-Site,US,MEDIUM,10600.0
+2023,Senior,Full-time,Data Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Scientist,157750,USD,157750,US,Full-Remote,US,MEDIUM,15775.0
+2023,Senior,Full-time,Data Scientist,104650,USD,104650,US,Full-Remote,US,MEDIUM,10465.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Executive level,Full-time,Data Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Executive level,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Lead Data Analyst,68000,USD,68000,US,On-Site,US,LARGE,6800.0
+2023,Entry level,Full-time,BI Data Engineer,60000,USD,60000,US,Full-Remote,US,MEDIUM,6000.0
+2023,Senior,Full-time,Data Scientist,45000,EUR,48289,ES,On-Site,ES,MEDIUM,4500.0
+2023,Senior,Full-time,Data Scientist,36000,EUR,38631,ES,On-Site,ES,MEDIUM,3600.0
+2023,Entry level,Full-time,Data Engineer,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Engineer,65000,USD,65000,US,On-Site,US,MEDIUM,6500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Senior,Full-time,Data Analyst,105000,USD,105000,US,Full-Remote,US,MEDIUM,10500.0
+2023,Senior,Full-time,Data Analyst,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Senior,Full-time,Analytics Engineer,179820,USD,179820,US,On-Site,US,MEDIUM,17982.0
+2023,Senior,Full-time,Analytics Engineer,143860,USD,143860,US,On-Site,US,MEDIUM,14386.0
+2023,Senior,Full-time,Data Analyst,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Analyst,105500,USD,105500,US,On-Site,US,MEDIUM,10550.0
+2023,Entry level,Full-time,Research Engineer,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Entry level,Full-time,Research Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Machine Learning Engineer,241000,USD,241000,US,On-Site,US,MEDIUM,24100.0
+2023,Senior,Full-time,Machine Learning Engineer,181000,USD,181000,US,On-Site,US,MEDIUM,18100.0
+2023,Senior,Full-time,Data Scientist,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Scientist,154000,USD,154000,US,On-Site,US,MEDIUM,15400.0
+2023,Executive level,Full-time,Data Architect,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Executive level,Full-time,Data Architect,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Scientist,191765,USD,191765,US,On-Site,US,MEDIUM,19176.5
+2023,Senior,Full-time,Data Scientist,134236,USD,134236,US,On-Site,US,MEDIUM,13423.6
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Scientist,237000,USD,237000,US,Full-Remote,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Entry level,Full-time,Research Engineer,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Entry level,Full-time,Research Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Analyst,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Engineer,146000,USD,146000,US,On-Site,US,MEDIUM,14600.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2023,Entry level,Full-time,Data Analyst,64200,USD,64200,US,Full-Remote,US,MEDIUM,6420.0
+2023,Entry level,Full-time,Data Analyst,56100,USD,56100,US,Full-Remote,US,MEDIUM,5610.0
+2023,Senior,Full-time,Machine Learning Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Machine Learning Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,208450,USD,208450,US,Full-Remote,US,MEDIUM,20845.0
+2023,Senior,Full-time,Data Analyst,170550,USD,170550,US,Full-Remote,US,MEDIUM,17055.0
+2023,Senior,Full-time,Machine Learning Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Machine Learning Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,Data Manager,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Mid/Intermediate level,Full-time,Data Manager,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Scientist,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,171250,USD,171250,IE,On-Site,IE,MEDIUM,17125.0
+2023,Senior,Full-time,Data Scientist,113750,USD,113750,IE,On-Site,IE,MEDIUM,11375.0
+2023,Senior,Full-time,Applied Scientist,222200,USD,222200,US,On-Site,US,LARGE,22220.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Senior,Full-time,Applied Scientist,260000,USD,260000,US,On-Site,US,LARGE,26000.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,100500,USD,100500,US,On-Site,US,MEDIUM,10050.0
+2023,Senior,Full-time,Applied Scientist,205000,USD,205000,US,Full-Remote,US,MEDIUM,20500.0
+2023,Senior,Full-time,Applied Scientist,184000,USD,184000,US,Full-Remote,US,MEDIUM,18400.0
+2023,Senior,Full-time,Machine Learning Engineer,115000,USD,115000,CA,Full-Remote,CA,MEDIUM,11500.0
+2023,Senior,Full-time,Machine Learning Engineer,95000,USD,95000,CA,Full-Remote,CA,MEDIUM,9500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,182500,USD,182500,US,On-Site,US,MEDIUM,18250.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,121500,USD,121500,US,On-Site,US,MEDIUM,12150.0
+2023,Senior,Full-time,Data Engineer,203100,USD,203100,US,On-Site,US,MEDIUM,20310.0
+2023,Senior,Full-time,Data Engineer,114500,USD,114500,US,On-Site,US,MEDIUM,11450.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,60000,GBP,72914,GB,On-Site,GB,MEDIUM,6000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,45000,GBP,54685,GB,On-Site,GB,MEDIUM,4500.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Entry level,Full-time,Data Engineer,92700,USD,92700,US,Full-Remote,US,MEDIUM,9270.0
+2023,Entry level,Full-time,Data Engineer,61800,USD,61800,US,Full-Remote,US,MEDIUM,6180.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Scientist,258000,USD,258000,CA,On-Site,CA,MEDIUM,25800.0
+2023,Senior,Full-time,Data Scientist,190000,USD,190000,CA,On-Site,CA,MEDIUM,19000.0
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Mid/Intermediate level,Full-time,Data Architect,167500,USD,167500,US,On-Site,US,MEDIUM,16750.0
+2023,Mid/Intermediate level,Full-time,Data Architect,106500,USD,106500,US,On-Site,US,MEDIUM,10650.0
+2023,Senior,Full-time,Data Scientist,195000,USD,195000,US,On-Site,US,MEDIUM,19500.0
+2023,Senior,Full-time,Data Scientist,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,146000,USD,146000,US,On-Site,US,MEDIUM,14600.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2022,Entry level,Full-time,Data Engineer,57000,EUR,59888,NL,Full-Remote,NL,LARGE,11400.0
+2023,Executive level,Full-time,Data Engineer,286000,USD,286000,US,Full-Remote,US,MEDIUM,28600.0
+2023,Executive level,Full-time,Data Engineer,207000,USD,207000,US,Full-Remote,US,MEDIUM,20700.0
+2023,Senior,Full-time,Data Analyst,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,Full-Remote,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Engineer,223250,USD,223250,US,On-Site,US,MEDIUM,22325.0
+2023,Senior,Full-time,Data Engineer,178600,USD,178600,US,On-Site,US,MEDIUM,17860.0
+2023,Executive level,Full-time,Director of Data Science,353200,USD,353200,US,On-Site,US,MEDIUM,35320.0
+2023,Executive level,Full-time,Director of Data Science,249300,USD,249300,US,On-Site,US,MEDIUM,24930.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Scientist,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Scientist,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,Data Scientist,297300,USD,297300,US,Full-Remote,US,MEDIUM,29730.0
+2023,Senior,Full-time,Data Scientist,198200,USD,198200,US,Full-Remote,US,MEDIUM,19820.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,210000,USD,210000,US,Full-Remote,US,MEDIUM,21000.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,151800,USD,151800,US,Full-Remote,US,MEDIUM,15180.0
+2023,Senior,Full-time,Data Scientist,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,317070,USD,317070,US,On-Site,US,MEDIUM,31707.0
+2023,Senior,Full-time,Data Scientist,170730,USD,170730,US,On-Site,US,MEDIUM,17073.0
+2023,Senior,Full-time,Data Engineer,128000,USD,128000,US,On-Site,US,MEDIUM,12800.0
+2023,Senior,Full-time,Data Engineer,81500,USD,81500,US,On-Site,US,MEDIUM,8150.0
+2023,Entry level,Full-time,Business Data Analyst,20000,EUR,21461,ES,On-Site,ES,MEDIUM,2000.0
+2023,Senior,Full-time,AI Developer,108000,USD,108000,UA,On-Site,UA,MEDIUM,10800.0
+2023,Senior,Full-time,AI Developer,60000,USD,60000,UA,On-Site,UA,MEDIUM,6000.0
+2023,Mid/Intermediate level,Full-time,MLOps Engineer,134000,USD,134000,US,Full-Remote,US,MEDIUM,13400.0
+2023,Mid/Intermediate level,Full-time,MLOps Engineer,124000,USD,124000,US,Full-Remote,US,MEDIUM,12400.0
+2023,Senior,Full-time,Data Engineer,171250,USD,171250,US,On-Site,US,MEDIUM,17125.0
+2023,Senior,Full-time,Data Engineer,113750,USD,113750,US,On-Site,US,MEDIUM,11375.0
+2023,Senior,Full-time,Data Engineer,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Engineer,132300,USD,132300,US,On-Site,US,MEDIUM,13230.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Engineer,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Senior,Full-time,Data Engineer,124500,USD,124500,US,On-Site,US,MEDIUM,12450.0
+2023,Senior,Full-time,Machine Learning Engineer,247500,USD,247500,US,On-Site,US,MEDIUM,24750.0
+2023,Senior,Full-time,Machine Learning Engineer,172200,USD,172200,US,On-Site,US,MEDIUM,17220.0
+2023,Senior,Full-time,Data Analyst,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Analyst,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Analyst,148700,USD,148700,US,On-Site,US,MEDIUM,14870.0
+2023,Senior,Full-time,Data Analyst,125600,USD,125600,US,On-Site,US,MEDIUM,12560.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Research Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Entry level,Full-time,Research Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,Research Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Analyst,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Analyst,120250,USD,120250,US,Full-Remote,US,MEDIUM,12025.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183000,USD,183000,US,Full-Remote,US,MEDIUM,18300.0
+2023,Senior,Full-time,Data Architect,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Architect,125000,USD,125000,US,Full-Remote,US,MEDIUM,12500.0
+2023,Mid/Intermediate level,Full-time,Data Architect,167500,USD,167500,US,On-Site,US,MEDIUM,16750.0
+2023,Mid/Intermediate level,Full-time,Data Architect,106500,USD,106500,US,On-Site,US,MEDIUM,10650.0
+2023,Senior,Full-time,Research Scientist,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,135000,USD,135000,US,Half-Remote,US,LARGE,13500.0
+2023,Senior,Full-time,AI Scientist,1500000,ILS,423834,IL,On-Site,IL,LARGE,150000.0
+2023,Senior,Full-time,Machine Learning Engineer,216000,USD,216000,US,Full-Remote,US,MEDIUM,21600.0
+2023,Senior,Full-time,Machine Learning Engineer,184000,USD,184000,US,Full-Remote,US,MEDIUM,18400.0
+2023,Senior,Full-time,Data Engineer,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Engineer,165000,USD,165000,US,Full-Remote,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Scientist,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Scientist,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,143865,USD,143865,US,On-Site,US,MEDIUM,14386.5
+2023,Mid/Intermediate level,Full-time,Data Engineer,115092,USD,115092,US,On-Site,US,MEDIUM,11509.2
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Senior,Full-time,Data Scientist,173000,USD,173000,US,Full-Remote,US,MEDIUM,17300.0
+2023,Senior,Full-time,Data Scientist,132000,USD,132000,US,Full-Remote,US,MEDIUM,13200.0
+2023,Senior,Full-time,Data Analyst,208049,USD,208049,US,On-Site,US,MEDIUM,20804.9
+2023,Senior,Full-time,Data Analyst,128500,USD,128500,US,On-Site,US,MEDIUM,12850.0
+2023,Senior,Full-time,Analytics Engineer,179820,USD,179820,US,On-Site,US,MEDIUM,17982.0
+2023,Senior,Full-time,Analytics Engineer,143860,USD,143860,US,On-Site,US,MEDIUM,14386.0
+2023,Senior,Full-time,Data Engineer,167500,USD,167500,US,On-Site,US,MEDIUM,16750.0
+2023,Senior,Full-time,Data Engineer,106500,USD,106500,US,On-Site,US,MEDIUM,10650.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183500,USD,183500,US,Full-Remote,US,MEDIUM,18350.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,149600,USD,149600,US,On-Site,US,MEDIUM,14960.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,102000,USD,102000,US,On-Site,US,MEDIUM,10200.0
+2023,Executive level,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Executive level,Full-time,Data Scientist,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Analyst,190000,USD,190000,US,Full-Remote,US,MEDIUM,19000.0
+2023,Senior,Full-time,Data Analyst,95000,USD,95000,US,Full-Remote,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,90000,EUR,96578,IE,On-Site,IE,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,75000,EUR,80481,IE,On-Site,IE,MEDIUM,7500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,128000,USD,128000,US,On-Site,US,MEDIUM,12800.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,151000,USD,151000,US,On-Site,US,MEDIUM,15100.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183500,USD,183500,US,Full-Remote,US,MEDIUM,18350.0
+2023,Senior,Full-time,Machine Learning Scientist,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,Machine Learning Scientist,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Analyst,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Analyst,105500,USD,105500,US,On-Site,US,MEDIUM,10550.0
+2023,Senior,Full-time,Data Analyst,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,Full-Remote,US,MEDIUM,8000.0
+2023,Entry level,Full-time,Autonomous Vehicle Technician,7000,USD,7000,GH,On-Site,GH,SMALL,700.0
+2023,Entry level,Full-time,Applied Machine Learning Scientist,40000,EUR,42923,DE,Half-Remote,DE,MEDIUM,4000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,CA,Full-Remote,CA,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,CA,Full-Remote,CA,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,154000,USD,154000,US,On-Site,US,MEDIUM,15400.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,143000,USD,143000,US,On-Site,US,MEDIUM,14300.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,65000,GBP,78990,GB,On-Site,GB,MEDIUM,6500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,42000,GBP,51039,GB,On-Site,GB,MEDIUM,4200.0
+2023,Entry level,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Entry level,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,70000,GBP,85066,GB,On-Site,GB,MEDIUM,7000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,42000,GBP,51039,GB,On-Site,GB,MEDIUM,4200.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,90000,GBP,109371,GB,On-Site,GB,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,60000,GBP,72914,GB,On-Site,GB,MEDIUM,6000.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Engineer,111000,USD,111000,US,On-Site,US,MEDIUM,11100.0
+2023,Executive level,Full-time,Data Engineer,265000,USD,265000,US,On-Site,US,MEDIUM,26500.0
+2023,Executive level,Full-time,Data Engineer,235000,USD,235000,US,On-Site,US,MEDIUM,23500.0
+2023,Entry level,Full-time,Data Scientist,112000,CHF,121093,CH,Half-Remote,CH,LARGE,11200.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,70000,EUR,73546,DE,Full-Remote,DE,MEDIUM,14000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,60400,USD,60400,US,Full-Remote,US,MEDIUM,6040.0
+2023,Entry level,Full-time,Data Analyst,85000,USD,85000,US,Full-Remote,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Entry level,Full-time,Data Engineer,92700,USD,92700,US,Full-Remote,US,MEDIUM,9270.0
+2023,Entry level,Full-time,Data Engineer,61800,USD,61800,US,Full-Remote,US,MEDIUM,6180.0
+2022,Senior,Full-time,Lead Data Scientist,164000,EUR,172309,IE,Full-Remote,IE,LARGE,32800.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,56000,EUR,60093,AT,Full-Remote,DE,MEDIUM,5600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,83500,USD,83500,US,Full-Remote,US,MEDIUM,8350.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,52500,USD,52500,US,Full-Remote,US,MEDIUM,5250.0
+2023,Senior,Full-time,Data Scientist,201036,USD,201036,US,On-Site,US,MEDIUM,20103.6
+2023,Senior,Full-time,Data Scientist,134024,USD,134024,US,On-Site,US,MEDIUM,13402.4
+2023,Senior,Full-time,Data Analyst,165000,USD,165000,US,Full-Remote,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Analyst,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Entry level,Full-time,Data Engineer,62000,USD,62000,US,Full-Remote,US,MEDIUM,6200.0
+2023,Entry level,Full-time,Data Engineer,58000,USD,58000,US,Full-Remote,US,MEDIUM,5800.0
+2023,Senior,Full-time,Data Scientist,172000,USD,172000,US,On-Site,US,MEDIUM,17200.0
+2023,Senior,Full-time,Data Scientist,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Entry level,Full-time,Data Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Entry level,Full-time,Data Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Senior,Full-time,Data Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Data Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,Data Scientist,237000,USD,237000,US,Full-Remote,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Senior,Full-time,Data Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Data Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Data Scientist,258000,USD,258000,CA,On-Site,CA,MEDIUM,25800.0
+2023,Senior,Full-time,Data Scientist,190000,USD,190000,CA,On-Site,CA,MEDIUM,19000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,205600,USD,205600,US,On-Site,US,LARGE,20560.0
+2023,Senior,Full-time,Data Engineer,105700,USD,105700,US,On-Site,US,LARGE,10570.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Data Scientist,239748,USD,239748,US,On-Site,US,MEDIUM,23974.8
+2023,Senior,Full-time,Data Scientist,159832,USD,159832,US,On-Site,US,MEDIUM,15983.2
+2023,Senior,Full-time,Data Scientist,186300,USD,186300,US,Full-Remote,US,MEDIUM,18630.0
+2023,Senior,Full-time,Data Scientist,102500,USD,102500,US,Full-Remote,US,MEDIUM,10250.0
+2023,Senior,Full-time,Data Engineer,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Engineer,132300,USD,132300,US,On-Site,US,MEDIUM,13230.0
+2023,Senior,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Senior,Full-time,Data Scientist,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,Data Architect,149040,USD,149040,US,Full-Remote,US,MEDIUM,14904.0
+2023,Senior,Full-time,Data Architect,113900,USD,113900,US,Full-Remote,US,MEDIUM,11390.0
+2023,Senior,Full-time,Data Engineer,153600,USD,153600,US,Full-Remote,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Engineer,106800,USD,106800,US,Full-Remote,US,MEDIUM,10680.0
+2023,Senior,Full-time,Data Engineer,172600,USD,172600,US,Full-Remote,US,MEDIUM,17260.0
+2023,Senior,Full-time,Data Engineer,107900,USD,107900,US,Full-Remote,US,MEDIUM,10790.0
+2023,Senior,Full-time,Data Analyst,180180,USD,180180,US,On-Site,US,MEDIUM,18018.0
+2023,Senior,Full-time,Data Analyst,106020,USD,106020,US,On-Site,US,MEDIUM,10602.0
+2023,Senior,Full-time,Data Architect,376080,USD,376080,US,Full-Remote,US,MEDIUM,37608.0
+2023,Senior,Full-time,Data Architect,213120,USD,213120,US,Full-Remote,US,MEDIUM,21312.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,100500,USD,100500,US,On-Site,US,MEDIUM,10050.0
+2023,Senior,Full-time,Data Analyst,206500,USD,206500,US,Full-Remote,US,MEDIUM,20650.0
+2023,Senior,Full-time,Data Analyst,121600,USD,121600,US,Full-Remote,US,MEDIUM,12160.0
+2023,Senior,Full-time,Data Engineer,260000,USD,260000,US,On-Site,US,MEDIUM,26000.0
+2023,Senior,Full-time,Data Engineer,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Executive level,Full-time,Data Engineer,194500,USD,194500,US,On-Site,US,MEDIUM,19450.0
+2023,Executive level,Full-time,Data Engineer,115500,USD,115500,US,On-Site,US,MEDIUM,11550.0
+2023,Senior,Full-time,Cloud Database Engineer,170000,USD,170000,US,Full-Remote,US,LARGE,17000.0
+2023,Senior,Full-time,Applied Machine Learning Scientist,90000,USD,90000,US,Full-Remote,US,LARGE,9000.0
+2023,Entry level,Full-time,Data Analyst,95000,USD,95000,US,Full-Remote,US,MEDIUM,9500.0
+2023,Entry level,Full-time,Data Analyst,70000,USD,70000,US,Full-Remote,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Engineer,275000,USD,275000,US,On-Site,US,MEDIUM,27500.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Analyst,115934,USD,115934,US,Full-Remote,US,MEDIUM,11593.4
+2023,Senior,Full-time,Data Analyst,81666,USD,81666,US,Full-Remote,US,MEDIUM,8166.6
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Machine Learning Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Research Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Research Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,206000,USD,206000,US,On-Site,US,MEDIUM,20600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Architect,138000,USD,138000,GB,Full-Remote,GB,MEDIUM,13800.0
+2023,Senior,Full-time,Data Architect,92000,USD,92000,GB,Full-Remote,GB,MEDIUM,9200.0
+2023,Senior,Full-time,Data Manager,65000,USD,65000,CO,On-Site,CO,MEDIUM,6500.0
+2023,Senior,Full-time,Data Manager,48000,USD,48000,CO,On-Site,CO,MEDIUM,4800.0
+2023,Senior,Full-time,Data Analyst,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Analytics Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Analytics Engineer,87000,USD,87000,US,On-Site,US,MEDIUM,8700.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,112000,USD,112000,US,On-Site,US,MEDIUM,11200.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,162500,USD,162500,US,On-Site,US,MEDIUM,16250.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Science Manager,299500,USD,299500,US,On-Site,US,MEDIUM,29950.0
+2023,Senior,Full-time,Data Science Manager,245100,USD,245100,US,On-Site,US,MEDIUM,24510.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,147100,USD,147100,US,On-Site,US,MEDIUM,14710.0
+2023,Senior,Full-time,Data Engineer,90700,USD,90700,US,On-Site,US,MEDIUM,9070.0
+2023,Entry level,Full-time,Data Engineer,115100,USD,115100,US,On-Site,US,MEDIUM,11510.0
+2023,Entry level,Full-time,Data Engineer,73900,USD,73900,US,On-Site,US,MEDIUM,7390.0
+2023,Senior,Full-time,Data Engineer,168400,USD,168400,US,On-Site,US,MEDIUM,16840.0
+2023,Senior,Full-time,Data Engineer,105200,USD,105200,US,On-Site,US,MEDIUM,10520.0
+2023,Senior,Full-time,Data Scientist,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Data Scientist,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Applied Scientist,222200,USD,222200,US,On-Site,US,LARGE,22220.0
+2023,Senior,Full-time,Applied Scientist,136000,USD,136000,US,On-Site,US,LARGE,13600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,70000,GBP,85066,GB,Full-Remote,GB,MEDIUM,7000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,47500,GBP,57723,GB,Full-Remote,GB,MEDIUM,4750.0
+2023,Executive level,Full-time,Data Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Executive level,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,95000,USD,95000,US,On-Site,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Analyst,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Analyst,120250,USD,120250,US,Full-Remote,US,MEDIUM,12025.0
+2023,Mid/Intermediate level,Full-time,Financial Data Analyst,130000,USD,130000,US,Full-Remote,US,LARGE,13000.0
+2023,Senior,Full-time,Data Scientist,205000,USD,205000,US,On-Site,US,MEDIUM,20500.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,297300,USD,297300,US,Full-Remote,US,MEDIUM,29730.0
+2023,Senior,Full-time,Data Scientist,198200,USD,198200,US,Full-Remote,US,MEDIUM,19820.0
+2023,Senior,Full-time,Research Scientist,141288,USD,141288,US,On-Site,US,MEDIUM,14128.8
+2023,Senior,Full-time,Research Scientist,94192,USD,94192,US,On-Site,US,MEDIUM,9419.2
+2023,Senior,Full-time,Data Infrastructure Engineer,184000,USD,184000,US,Full-Remote,US,MEDIUM,18400.0
+2023,Senior,Full-time,Data Infrastructure Engineer,143000,USD,143000,US,Full-Remote,US,MEDIUM,14300.0
+2023,Senior,Full-time,Data Analyst,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Analyst,55000,USD,55000,US,On-Site,US,MEDIUM,5500.0
+2023,Senior,Full-time,Analytics Engineer,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Analytics Engineer,183500,USD,183500,US,Full-Remote,US,MEDIUM,18350.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,65000,USD,65000,US,Full-Remote,US,MEDIUM,6500.0
+2023,Mid/Intermediate level,Full-time,ML Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Mid/Intermediate level,Full-time,ML Engineer,147000,USD,147000,US,On-Site,US,MEDIUM,14700.0
+2023,Senior,Full-time,Data Architect,149040,USD,149040,US,Full-Remote,US,MEDIUM,14904.0
+2023,Senior,Full-time,Data Architect,113900,USD,113900,US,Full-Remote,US,MEDIUM,11390.0
+2023,Mid/Intermediate level,Full-time,Software Data Engineer,100000,SGD,75020,SG,Full-Remote,SG,LARGE,10000.0
+2023,Senior,Full-time,Data Analyst,180180,USD,180180,US,On-Site,US,MEDIUM,18018.0
+2023,Senior,Full-time,Data Analyst,106020,USD,106020,US,On-Site,US,MEDIUM,10602.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,1400000,INR,17022,IN,Full-Remote,IN,LARGE,140000.0
+2023,Entry level,Full-time,AI Programmer,70000,USD,70000,IN,On-Site,AU,LARGE,7000.0
+2023,Entry level,Full-time,AI Developer,80000,USD,80000,SE,Half-Remote,SE,MEDIUM,8000.0
+2023,Mid/Intermediate level,Full-time,Lead Data Analyst,1500000,INR,18238,IN,Half-Remote,IN,LARGE,150000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Data Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Data Scientist,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Senior,Full-time,Data Scientist,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Executive level,Full-time,Data Engineer,210914,USD,210914,US,Full-Remote,US,MEDIUM,21091.4
+2023,Executive level,Full-time,Data Engineer,116704,USD,116704,US,Full-Remote,US,MEDIUM,11670.4
+2023,Entry level,Full-time,Research Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Entry level,Full-time,Research Scientist,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,146000,USD,146000,US,On-Site,US,MEDIUM,14600.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Entry level,Full-time,Data Analyst,60000,USD,60000,US,Full-Remote,US,MEDIUM,6000.0
+2023,Mid/Intermediate level,Full-time,Analytics Engineer,185700,USD,185700,US,On-Site,US,MEDIUM,18570.0
+2023,Mid/Intermediate level,Full-time,Analytics Engineer,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,169000,USD,169000,US,On-Site,US,MEDIUM,16900.0
+2023,Senior,Full-time,Data Analyst,110600,USD,110600,US,On-Site,US,MEDIUM,11060.0
+2023,Senior,Full-time,Data Operations Engineer,193000,USD,193000,US,Full-Remote,US,MEDIUM,19300.0
+2023,Senior,Full-time,Data Operations Engineer,136850,USD,136850,US,Full-Remote,US,MEDIUM,13685.0
+2023,Senior,Full-time,Machine Learning Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Machine Learning Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Data Engineer,276000,USD,276000,US,Full-Remote,US,MEDIUM,27600.0
+2023,Senior,Full-time,Data Engineer,178500,USD,178500,US,Full-Remote,US,MEDIUM,17850.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,55000,EUR,59020,ES,On-Site,ES,MEDIUM,5500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,45000,EUR,48289,ES,On-Site,ES,MEDIUM,4500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,70000,EUR,75116,SI,Full-Remote,SI,MEDIUM,7000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,45000,EUR,48289,SI,Full-Remote,SI,MEDIUM,4500.0
+2023,Senior,Full-time,Machine Learning Engineer,161000,GBP,195652,GB,On-Site,GB,MEDIUM,16100.0
+2023,Senior,Full-time,Machine Learning Engineer,83300,GBP,101228,GB,On-Site,GB,MEDIUM,8330.0
+2023,Senior,Full-time,Data Engineer,112700,GBP,136956,GB,On-Site,GB,MEDIUM,11270.0
+2023,Senior,Full-time,Data Engineer,83300,GBP,101228,GB,On-Site,GB,MEDIUM,8330.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2022,Senior,Full-time,BI Developer,130000,USD,130000,US,Full-Remote,US,LARGE,26000.0
+2021,Mid/Intermediate level,Full-time,Data Science Lead,150000,USD,150000,US,Full-Remote,US,MEDIUM,45000.0
+2023,Senior,Full-time,Data Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Data Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,ML Engineer,260000,USD,260000,CA,Full-Remote,CA,MEDIUM,26000.0
+2023,Senior,Full-time,ML Engineer,110000,USD,110000,CA,Full-Remote,CA,MEDIUM,11000.0
+2023,Senior,Full-time,Analytics Engineer,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Analytics Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Machine Learning Engineer,247500,USD,247500,US,On-Site,US,MEDIUM,24750.0
+2023,Senior,Full-time,Machine Learning Engineer,172200,USD,172200,US,On-Site,US,MEDIUM,17220.0
+2023,Senior,Full-time,Data Scientist,239748,USD,239748,US,On-Site,US,MEDIUM,23974.8
+2023,Senior,Full-time,Data Scientist,159832,USD,159832,US,On-Site,US,MEDIUM,15983.2
+2023,Senior,Full-time,Machine Learning Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Machine Learning Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,128750,USD,128750,US,On-Site,US,MEDIUM,12875.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,106250,USD,106250,US,On-Site,US,MEDIUM,10625.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Data Science Manager,299500,USD,299500,US,On-Site,US,MEDIUM,29950.0
+2023,Senior,Full-time,Data Science Manager,245100,USD,245100,US,On-Site,US,MEDIUM,24510.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Manager,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Executive level,Full-time,Data Engineer,167500,USD,167500,US,On-Site,US,MEDIUM,16750.0
+2023,Executive level,Full-time,Data Engineer,106500,USD,106500,US,On-Site,US,MEDIUM,10650.0
+2023,Senior,Full-time,Data Architect,188500,USD,188500,US,Full-Remote,US,MEDIUM,18850.0
+2023,Senior,Full-time,Data Architect,117000,USD,117000,US,Full-Remote,US,MEDIUM,11700.0
+2023,Senior,Full-time,Data Analyst,250000,USD,250000,US,Full-Remote,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Analyst,138000,USD,138000,US,Full-Remote,US,MEDIUM,13800.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,130000,USD,130000,CA,Full-Remote,CA,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,CA,Full-Remote,CA,MEDIUM,10000.0
+2023,Senior,Full-time,Deep Learning Researcher,115000,EUR,123405,DE,On-Site,DE,LARGE,11500.0
+2023,Senior,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,BI Analyst,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,BI Analyst,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Mid/Intermediate level,Full-time,Data Science Manager,104500,USD,104500,US,On-Site,US,MEDIUM,10450.0
+2023,Mid/Intermediate level,Full-time,Data Science Manager,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Mid/Intermediate level,Full-time,Data Science Consultant,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Science Consultant,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Engineer,153600,USD,153600,US,Full-Remote,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Engineer,106800,USD,106800,US,Full-Remote,US,MEDIUM,10680.0
+2023,Entry level,Full-time,Data Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Entry level,Full-time,Data Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,125000,USD,125000,US,Full-Remote,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Analyst,127000,USD,127000,US,Full-Remote,US,MEDIUM,12700.0
+2023,Senior,Full-time,Data Analyst,94000,USD,94000,US,Full-Remote,US,MEDIUM,9400.0
+2023,Senior,Full-time,Data Scientist,210550,USD,210550,US,On-Site,US,MEDIUM,21055.0
+2023,Senior,Full-time,Data Scientist,153300,USD,153300,US,On-Site,US,MEDIUM,15330.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Analyst,161500,USD,161500,US,Full-Remote,US,MEDIUM,16150.0
+2023,Senior,Full-time,Data Analyst,119500,USD,119500,US,Full-Remote,US,MEDIUM,11950.0
+2023,Senior,Full-time,Data Analyst,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Analyst,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,148750,USD,148750,US,On-Site,US,MEDIUM,14875.0
+2023,Senior,Full-time,Data Analytics Specialist,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Senior,Full-time,Data Analytics Specialist,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Senior,Full-time,Research Scientist,215000,USD,215000,US,On-Site,US,MEDIUM,21500.0
+2023,Senior,Full-time,Research Scientist,146300,USD,146300,US,On-Site,US,MEDIUM,14630.0
+2023,Entry level,Full-time,AI Developer,200000,EUR,214618,DE,Full-Remote,DE,LARGE,20000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,72000,USD,72000,MX,Full-Remote,MX,MEDIUM,7200.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,60000,USD,60000,MX,Full-Remote,MX,MEDIUM,6000.0
+2023,Senior,Full-time,Machine Learning Engineer,153400,USD,153400,US,On-Site,US,MEDIUM,15340.0
+2023,Senior,Full-time,Machine Learning Engineer,122700,USD,122700,US,On-Site,US,MEDIUM,12270.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,260000,USD,260000,US,On-Site,US,MEDIUM,26000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,186300,USD,186300,US,Full-Remote,US,MEDIUM,18630.0
+2023,Senior,Full-time,Data Scientist,123900,USD,123900,US,Full-Remote,US,MEDIUM,12390.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,340000,USD,340000,US,Full-Remote,US,MEDIUM,34000.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Machine Learning Engineer,153400,USD,153400,US,On-Site,US,MEDIUM,15340.0
+2023,Senior,Full-time,Machine Learning Engineer,122700,USD,122700,US,On-Site,US,MEDIUM,12270.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,60000,EUR,64385,FR,Half-Remote,FR,MEDIUM,6000.0
+2023,Senior,Full-time,Data Analyst,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Analyst,121700,USD,121700,US,On-Site,US,MEDIUM,12170.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Senior,Freelancer,Software Data Engineer,50000,USD,50000,NG,Half-Remote,AU,MEDIUM,5000.0
+2023,Entry level,Full-time,Data Analyst,100000,USD,100000,UZ,Full-Remote,US,LARGE,10000.0
+2023,Senior,Full-time,Machine Learning Engineer,247500,USD,247500,US,On-Site,US,MEDIUM,24750.0
+2023,Senior,Full-time,Machine Learning Engineer,172200,USD,172200,US,On-Site,US,MEDIUM,17220.0
+2023,Executive level,Full-time,Data Engineer,310000,USD,310000,US,Full-Remote,US,MEDIUM,31000.0
+2023,Executive level,Full-time,Data Engineer,239000,USD,239000,US,Full-Remote,US,MEDIUM,23900.0
+2023,Senior,Full-time,Data Analyst,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Analyst,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Entry level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Entry level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Scientist,149076,USD,149076,US,On-Site,US,MEDIUM,14907.6
+2023,Senior,Full-time,Data Scientist,82365,USD,82365,US,On-Site,US,MEDIUM,8236.5
+2023,Mid/Intermediate level,Full-time,Data Engineer,146000,USD,146000,US,On-Site,US,MEDIUM,14600.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2023,Senior,Full-time,Machine Learning Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Machine Learning Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Data Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Data Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,149600,USD,149600,US,On-Site,US,MEDIUM,14960.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,102000,USD,102000,US,On-Site,US,MEDIUM,10200.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,80000,GBP,97218,GB,On-Site,GB,MEDIUM,8000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,40000,GBP,48609,GB,On-Site,GB,MEDIUM,4000.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Data Analyst,95000,USD,95000,US,On-Site,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Analyst,85500,USD,85500,US,On-Site,US,MEDIUM,8550.0
+2023,Senior,Full-time,Data Analyst,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Analyst,121700,USD,121700,US,On-Site,US,MEDIUM,12170.0
+2023,Entry level,Full-time,Research Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Entry level,Full-time,Research Scientist,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,97750,USD,97750,US,Full-Remote,US,MEDIUM,9775.0
+2023,Senior,Full-time,Data Scientist,201000,USD,201000,US,On-Site,US,MEDIUM,20100.0
+2023,Senior,Full-time,Data Scientist,122000,USD,122000,US,On-Site,US,MEDIUM,12200.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Data Analyst,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,116990,USD,116990,US,Full-Remote,US,MEDIUM,11699.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,82920,USD,82920,US,Full-Remote,US,MEDIUM,8292.0
+2023,Senior,Full-time,Data Scientist,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Scientist,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Scientist,200000,USD,200000,US,On-Site,US,SMALL,20000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Scientist,125000,USD,125000,US,On-Site,US,SMALL,12500.0
+2023,Senior,Full-time,Data Scientist,201000,USD,201000,US,On-Site,US,MEDIUM,20100.0
+2023,Senior,Full-time,Data Scientist,122000,USD,122000,US,On-Site,US,MEDIUM,12200.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Senior,Full-time,Data Manager,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Infrastructure Engineer,205920,USD,205920,US,On-Site,US,MEDIUM,20592.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Infrastructure Engineer,171600,USD,171600,US,On-Site,US,MEDIUM,17160.0
+2023,Senior,Full-time,Data Engineer,121500,USD,121500,US,Full-Remote,US,MEDIUM,12150.0
+2023,Senior,Full-time,Data Engineer,78000,USD,78000,US,Full-Remote,US,MEDIUM,7800.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,154000,USD,154000,US,On-Site,US,MEDIUM,15400.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,116000,USD,116000,US,On-Site,US,MEDIUM,11600.0
+2023,Senior,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Senior,Full-time,Data Scientist,136000,USD,136000,US,On-Site,US,MEDIUM,13600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,65000,GBP,78990,GB,Full-Remote,GB,MEDIUM,6500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,36050,GBP,43809,GB,Full-Remote,GB,MEDIUM,3605.0
+2023,Senior,Full-time,Data Analyst,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Analyst,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183000,USD,183000,US,Full-Remote,US,MEDIUM,18300.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Engineer,154000,USD,154000,US,On-Site,US,MEDIUM,15400.0
+2023,Senior,Full-time,Data Engineer,116000,USD,116000,US,On-Site,US,MEDIUM,11600.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,105000,GBP,127599,GB,On-Site,GB,MEDIUM,10500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,85000,GBP,103294,GB,On-Site,GB,MEDIUM,8500.0
+2023,Senior,Full-time,Data Engineer,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Engineer,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Entry level,Full-time,Data Analyst,85000,USD,85000,US,Full-Remote,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,On-Site,US,MEDIUM,15640.0
+2023,Senior,Full-time,Analytics Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Analytics Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Machine Learning Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Machine Learning Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,Data Analyst,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Analyst,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Senior,Full-time,Data Analyst,95000,USD,95000,US,On-Site,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Analyst,85500,USD,85500,US,On-Site,US,MEDIUM,8550.0
+2023,Senior,Full-time,Data Engineer,167500,USD,167500,US,On-Site,US,MEDIUM,16750.0
+2023,Senior,Full-time,Data Engineer,106500,USD,106500,US,On-Site,US,MEDIUM,10650.0
+2023,Senior,Full-time,Data Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Data Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Manager,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Research Scientist,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Scientist,260000,USD,260000,US,On-Site,US,MEDIUM,26000.0
+2023,Senior,Full-time,Data Scientist,186000,USD,186000,US,On-Site,US,MEDIUM,18600.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Research Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Scientist,45000,EUR,48289,ES,On-Site,ES,MEDIUM,4500.0
+2023,Senior,Full-time,Data Scientist,36000,EUR,38631,ES,On-Site,ES,MEDIUM,3600.0
+2023,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Entry level,Full-time,Data Analyst,30000,USD,30000,IN,Half-Remote,IN,MEDIUM,3000.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2022,Entry level,Part-time,Data Analyst,34320,USD,34320,US,Full-Remote,US,SMALL,6864.0
+2022,Mid/Intermediate level,Full-time,Business Data Analyst,48000,BRL,9289,BR,Full-Remote,BR,MEDIUM,9600.0
+2023,Senior,Full-time,Head of Data,70000,EUR,75116,PT,Full-Remote,PT,LARGE,7000.0
+2022,Executive level,Full-time,Data Science Manager,106000,USD,106000,UZ,On-Site,RU,LARGE,21200.0
+2023,Senior,Full-time,Data Analyst,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Analyst,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,122000,USD,122000,US,Full-Remote,US,MEDIUM,12200.0
+2023,Senior,Full-time,Data Analyst,93800,USD,93800,US,Full-Remote,US,MEDIUM,9380.0
+2023,Senior,Full-time,Data Science Manager,150000,USD,150000,MX,Full-Remote,MX,MEDIUM,15000.0
+2023,Senior,Full-time,Data Science Manager,90000,USD,90000,MX,Full-Remote,MX,MEDIUM,9000.0
+2023,Senior,Full-time,Data Analyst,165000,USD,165000,US,Full-Remote,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Analyst,112000,USD,112000,US,Full-Remote,US,MEDIUM,11200.0
+2023,Entry level,Full-time,Computer Vision Engineer,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,BI Data Analyst,67000,EUR,71897,DE,Full-Remote,DE,MEDIUM,6700.0
+2023,Entry level,Full-time,AI Developer,60000,EUR,64385,DE,On-Site,DE,MEDIUM,6000.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Senior,Full-time,Data Analyst,1300000,INR,15806,IN,Full-Remote,IN,SMALL,130000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Engineer,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Engineer,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Data Analyst,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Analyst,121700,USD,121700,US,On-Site,US,MEDIUM,12170.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,40000,USD,40000,FR,Half-Remote,FR,LARGE,4000.0
+2023,Senior,Full-time,Data Science Consultant,1000000,THB,29453,TH,Half-Remote,TH,MEDIUM,100000.0
+2023,Senior,Full-time,Data Analyst,180180,USD,180180,US,On-Site,US,MEDIUM,18018.0
+2023,Senior,Full-time,Data Analyst,106020,USD,106020,US,On-Site,US,MEDIUM,10602.0
+2023,Senior,Full-time,Data Scientist,136000,USD,136000,US,Full-Remote,US,MEDIUM,13600.0
+2023,Senior,Full-time,Data Scientist,104000,USD,104000,US,Full-Remote,US,MEDIUM,10400.0
+2023,Senior,Full-time,Data Analyst,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Analyst,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Senior,Full-time,Machine Learning Engineer,153400,USD,153400,US,On-Site,US,MEDIUM,15340.0
+2023,Senior,Full-time,Machine Learning Engineer,122700,USD,122700,US,On-Site,US,MEDIUM,12270.0
+2023,Executive level,Full-time,Data Engineer,310000,USD,310000,US,Full-Remote,US,MEDIUM,31000.0
+2023,Executive level,Full-time,Data Engineer,239000,USD,239000,US,Full-Remote,US,MEDIUM,23900.0
+2023,Senior,Full-time,Data Analyst,152380,USD,152380,US,On-Site,US,MEDIUM,15238.0
+2023,Senior,Full-time,Data Analyst,121904,USD,121904,US,On-Site,US,MEDIUM,12190.4
+2023,Senior,Full-time,Data Scientist,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Scientist,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Machine Learning Engineer,247500,USD,247500,US,On-Site,US,MEDIUM,24750.0
+2023,Senior,Full-time,Machine Learning Engineer,172200,USD,172200,US,On-Site,US,MEDIUM,17220.0
+2023,Senior,Full-time,Data Architect,168400,USD,168400,US,On-Site,US,MEDIUM,16840.0
+2023,Senior,Full-time,Data Architect,105200,USD,105200,US,On-Site,US,MEDIUM,10520.0
+2023,Senior,Full-time,Machine Learning Engineer,128280,USD,128280,US,On-Site,US,MEDIUM,12828.0
+2023,Senior,Full-time,Machine Learning Engineer,106900,USD,106900,US,On-Site,US,MEDIUM,10690.0
+2022,Senior,Full-time,Lead Data Scientist,192000,USD,192000,US,Full-Remote,US,LARGE,38400.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Research Engineer,100000,EUR,107309,DE,Full-Remote,DE,SMALL,10000.0
+2023,Senior,Full-time,Research Engineer,80000,EUR,85847,DE,Full-Remote,DE,SMALL,8000.0
+2023,Senior,Full-time,Machine Learning Engineer,275000,USD,275000,DE,On-Site,DE,MEDIUM,27500.0
+2023,Senior,Full-time,Machine Learning Engineer,174000,USD,174000,DE,On-Site,DE,MEDIUM,17400.0
+2023,Senior,Full-time,Data Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Data Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Machine Learning Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Machine Learning Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Data Analyst,170500,USD,170500,US,Full-Remote,US,MEDIUM,17050.0
+2023,Senior,Full-time,Data Analyst,85000,USD,85000,US,Full-Remote,US,MEDIUM,8500.0
+2023,Senior,Full-time,Data Manager,60027,GBP,72946,GB,On-Site,GB,MEDIUM,6002.7
+2023,Senior,Full-time,Data Manager,44737,GBP,54365,GB,On-Site,GB,MEDIUM,4473.7
+2023,Executive level,Full-time,Head of Data Science,131899,GBP,160288,GB,On-Site,GB,MEDIUM,13189.9
+2023,Executive level,Full-time,Head of Data Science,104891,GBP,127467,GB,On-Site,GB,MEDIUM,10489.1
+2023,Senior,Full-time,Data Engineer,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Engineer,65000,USD,65000,US,On-Site,US,MEDIUM,6500.0
+2023,Senior,Full-time,Data Engineer,124740,USD,124740,US,On-Site,US,MEDIUM,12474.0
+2023,Senior,Full-time,Data Engineer,65488,USD,65488,US,On-Site,US,MEDIUM,6548.8
+2023,Senior,Full-time,Data Quality Analyst,72200,USD,72200,US,On-Site,US,MEDIUM,7220.0
+2023,Senior,Full-time,Data Quality Analyst,64980,USD,64980,US,On-Site,US,MEDIUM,6498.0
+2023,Senior,Full-time,Data Engineer,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Engineer,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Senior,Full-time,Data Analyst,179975,USD,179975,US,Full-Remote,US,MEDIUM,17997.5
+2023,Senior,Full-time,Data Analyst,86466,USD,86466,US,Full-Remote,US,MEDIUM,8646.6
+2023,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Insight Analyst,42000,GBP,51039,GB,On-Site,GB,MEDIUM,4200.0
+2023,Mid/Intermediate level,Full-time,Insight Analyst,35000,GBP,42533,GB,On-Site,GB,MEDIUM,3500.0
+2023,Senior,Full-time,Data Scientist,149076,USD,149076,US,On-Site,US,MEDIUM,14907.6
+2023,Senior,Full-time,Data Scientist,82365,USD,82365,US,On-Site,US,MEDIUM,8236.5
+2023,Senior,Full-time,Data Analyst,169000,USD,169000,US,On-Site,US,MEDIUM,16900.0
+2023,Senior,Full-time,Data Analyst,110600,USD,110600,US,On-Site,US,MEDIUM,11060.0
+2023,Senior,Full-time,Data Science Manager,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Science Manager,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Analyst,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Senior,Full-time,Data Analyst,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Senior,Full-time,Data Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Manager,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Machine Learning Infrastructure Engineer,205920,USD,205920,US,On-Site,US,MEDIUM,20592.0
+2023,Senior,Full-time,Machine Learning Infrastructure Engineer,171600,USD,171600,US,On-Site,US,MEDIUM,17160.0
+2023,Senior,Full-time,Data Analyst,165000,USD,165000,US,Full-Remote,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Analyst,125000,USD,125000,US,Full-Remote,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Engineer,265000,USD,265000,US,On-Site,US,MEDIUM,26500.0
+2023,Senior,Full-time,Data Engineer,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Mid/Intermediate level,Full-time,Applied Machine Learning Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2022,Entry level,Full-time,Data Scientist,168000,USD,168000,US,Full-Remote,US,MEDIUM,33600.0
+2023,Mid/Intermediate level,Full-time,AI Scientist,36000,EUR,38631,ES,Half-Remote,ES,LARGE,3600.0
+2023,Senior,Full-time,Data Analyst,95000,USD,95000,US,On-Site,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Analyst,85500,USD,85500,US,On-Site,US,MEDIUM,8550.0
+2023,Senior,Full-time,Data Scientist,147100,USD,147100,US,On-Site,US,MEDIUM,14710.0
+2023,Senior,Full-time,Data Scientist,90700,USD,90700,US,On-Site,US,MEDIUM,9070.0
+2023,Senior,Full-time,Data Engineer,167580,USD,167580,US,On-Site,US,MEDIUM,16758.0
+2023,Senior,Full-time,Data Engineer,87980,USD,87980,US,On-Site,US,MEDIUM,8798.0
+2023,Senior,Full-time,Data Engineer,202000,USD,202000,US,Full-Remote,US,MEDIUM,20200.0
+2023,Senior,Full-time,Data Engineer,135000,USD,135000,US,Full-Remote,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Data Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,Machine Learning Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Machine Learning Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,Data Engineer,104000,USD,104000,US,Full-Remote,US,MEDIUM,10400.0
+2023,Senior,Full-time,Data Engineer,65000,USD,65000,US,Full-Remote,US,MEDIUM,6500.0
+2023,Senior,Full-time,Research Engineer,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Senior,Full-time,Research Engineer,148000,USD,148000,US,On-Site,US,MEDIUM,14800.0
+2023,Senior,Full-time,Machine Learning Engineer,269000,USD,269000,CA,Full-Remote,CA,MEDIUM,26900.0
+2023,Senior,Full-time,Machine Learning Engineer,158000,USD,158000,CA,Full-Remote,CA,MEDIUM,15800.0
+2023,Senior,Full-time,Analytics Engineer,197000,USD,197000,US,On-Site,US,MEDIUM,19700.0
+2023,Senior,Full-time,Analytics Engineer,106000,USD,106000,US,On-Site,US,MEDIUM,10600.0
+2023,Mid/Intermediate level,Full-time,Deep Learning Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Deep Learning Engineer,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,290000,USD,290000,US,Full-Remote,US,MEDIUM,29000.0
+2023,Senior,Full-time,Data Engineer,210000,USD,210000,US,Full-Remote,US,MEDIUM,21000.0
+2023,Senior,Full-time,Data Engineer,192000,USD,192000,US,On-Site,US,MEDIUM,19200.0
+2023,Senior,Full-time,Data Engineer,172800,USD,172800,US,On-Site,US,MEDIUM,17280.0
+2023,Senior,Full-time,Data Scientist,300240,USD,300240,US,On-Site,US,MEDIUM,30024.0
+2023,Senior,Full-time,Data Scientist,200160,USD,200160,US,On-Site,US,MEDIUM,20016.0
+2023,Senior,Full-time,Data Scientist,300240,USD,300240,US,On-Site,US,MEDIUM,30024.0
+2023,Senior,Full-time,Data Scientist,200160,USD,200160,US,On-Site,US,MEDIUM,20016.0
+2023,Senior,Full-time,Analytics Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Analytics Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Manager,169000,USD,169000,US,On-Site,US,MEDIUM,16900.0
+2023,Senior,Full-time,Data Manager,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Scientist,370000,USD,370000,US,On-Site,US,MEDIUM,37000.0
+2023,Senior,Full-time,Data Scientist,245000,USD,245000,US,On-Site,US,MEDIUM,24500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,95000,GBP,115447,GB,Full-Remote,GB,LARGE,9500.0
+2023,Senior,Full-time,Data Analyst,110000,USD,110000,US,Full-Remote,US,SMALL,11000.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,Full-Remote,US,SMALL,8000.0
+2023,Entry level,Full-time,Data Analyst,55000,USD,55000,US,On-Site,US,MEDIUM,5500.0
+2023,Entry level,Full-time,Data Analyst,48000,USD,48000,US,On-Site,US,MEDIUM,4800.0
+2023,Senior,Full-time,Data Analyst,95000,USD,95000,US,On-Site,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Analyst,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Senior,Full-time,Data Engineer,137500,USD,137500,US,Full-Remote,US,MEDIUM,13750.0
+2023,Senior,Full-time,Data Engineer,81500,USD,81500,US,Full-Remote,US,MEDIUM,8150.0
+2023,Senior,Full-time,Machine Learning Engineer,323300,USD,323300,US,On-Site,US,MEDIUM,32330.0
+2023,Senior,Full-time,Machine Learning Engineer,184700,USD,184700,US,On-Site,US,MEDIUM,18470.0
+2021,Mid/Intermediate level,Full-time,AI Scientist,30000,USD,30000,GH,On-Site,GH,SMALL,9000.0
+2023,Senior,Full-time,Machine Learning Engineer,186000,USD,186000,US,Full-Remote,US,MEDIUM,18600.0
+2023,Senior,Full-time,Machine Learning Engineer,153088,USD,153088,US,Full-Remote,US,MEDIUM,15308.8
+2023,Mid/Intermediate level,Full-time,Data Infrastructure Engineer,190000,USD,190000,US,Full-Remote,US,MEDIUM,19000.0
+2023,Mid/Intermediate level,Full-time,Data Infrastructure Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Machine Learning Engineer,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Infrastructure Engineer,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Mid/Intermediate level,Full-time,Data Infrastructure Engineer,183310,USD,183310,US,On-Site,US,MEDIUM,18331.0
+2023,Senior,Full-time,Machine Learning Engineer,240000,USD,240000,US,Full-Remote,US,MEDIUM,24000.0
+2023,Senior,Full-time,Machine Learning Engineer,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Machine Learning Engineer,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Science Manager,299500,USD,299500,US,On-Site,US,MEDIUM,29950.0
+2023,Senior,Full-time,Data Science Manager,245100,USD,245100,US,On-Site,US,MEDIUM,24510.0
+2023,Senior,Full-time,Data Engineer,144000,USD,144000,US,Full-Remote,US,MEDIUM,14400.0
+2023,Senior,Full-time,Data Engineer,66000,USD,66000,US,Full-Remote,US,MEDIUM,6600.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,148500,USD,148500,US,On-Site,US,MEDIUM,14850.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,126277,USD,126277,US,On-Site,US,MEDIUM,12627.7
+2023,Senior,Full-time,Data Architect,228000,USD,228000,US,On-Site,US,MEDIUM,22800.0
+2023,Senior,Full-time,Data Architect,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Machine Learning Software Engineer,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Machine Learning Software Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Senior,Full-time,Data Scientist,126500,USD,126500,US,On-Site,US,MEDIUM,12650.0
+2023,Senior,Full-time,Data Scientist,78000,USD,78000,US,On-Site,US,MEDIUM,7800.0
+2023,Senior,Full-time,Data Engineer,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Machine Learning Software Engineer,272000,USD,272000,US,On-Site,US,MEDIUM,27200.0
+2023,Senior,Full-time,Machine Learning Software Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,60000,USD,60000,US,On-Site,US,MEDIUM,6000.0
+2023,Senior,Full-time,Data Engineer,259000,USD,259000,US,Full-Remote,US,MEDIUM,25900.0
+2023,Senior,Full-time,Data Engineer,146000,USD,146000,US,Full-Remote,US,MEDIUM,14600.0
+2023,Senior,Full-time,Data Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Executive level,Full-time,Data Engineer,310000,USD,310000,US,Full-Remote,US,MEDIUM,31000.0
+2023,Executive level,Full-time,Data Engineer,239000,USD,239000,US,Full-Remote,US,MEDIUM,23900.0
+2023,Senior,Full-time,Data Analyst,142000,USD,142000,US,Full-Remote,US,MEDIUM,14200.0
+2023,Senior,Full-time,Data Analyst,95000,USD,95000,US,Full-Remote,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Scientist,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Scientist,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,259000,USD,259000,US,Full-Remote,US,MEDIUM,25900.0
+2023,Senior,Full-time,Data Engineer,146000,USD,146000,US,Full-Remote,US,MEDIUM,14600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,90000,GBP,109371,HR,On-Site,HR,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,60000,GBP,72914,HR,On-Site,HR,MEDIUM,6000.0
+2023,Entry level,Part-time,Data Analyst,78000,PLN,17779,PL,Full-Remote,IN,LARGE,7800.0
+2023,Entry level,Full-time,Data Scientist,101400,BRL,19522,BR,Full-Remote,BR,LARGE,10140.0
+2023,Senior,Full-time,Data Science Lead,247500,USD,247500,US,On-Site,US,MEDIUM,24750.0
+2023,Senior,Full-time,Data Science Lead,172200,USD,172200,US,On-Site,US,MEDIUM,17220.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,On-Site,US,MEDIUM,15640.0
+2023,Senior,Full-time,Data Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Data Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Senior,Full-time,Machine Learning Infrastructure Engineer,100000,EUR,107309,FR,Full-Remote,FR,MEDIUM,10000.0
+2023,Senior,Full-time,Machine Learning Infrastructure Engineer,70000,EUR,75116,FR,Full-Remote,FR,MEDIUM,7000.0
+2023,Senior,Full-time,Data Scientist,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Scientist,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Machine Learning Engineer,139500,USD,139500,US,On-Site,US,MEDIUM,13950.0
+2023,Senior,Full-time,Machine Learning Engineer,109400,USD,109400,US,On-Site,US,MEDIUM,10940.0
+2023,Senior,Full-time,Data Analyst,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Analyst,169000,USD,169000,US,On-Site,US,MEDIUM,16900.0
+2023,Senior,Full-time,Data Analyst,110600,USD,110600,US,On-Site,US,MEDIUM,11060.0
+2023,Senior,Full-time,Machine Learning Engineer,288000,USD,288000,US,Full-Remote,US,MEDIUM,28800.0
+2023,Senior,Full-time,Machine Learning Engineer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,Machine Learning Engineer,288000,USD,288000,US,Full-Remote,US,MEDIUM,28800.0
+2023,Senior,Full-time,Machine Learning Engineer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Science Lead,60000,GBP,72914,GB,On-Site,GB,MEDIUM,6000.0
+2023,Mid/Intermediate level,Full-time,Data Science Lead,50000,GBP,60761,GB,On-Site,GB,MEDIUM,5000.0
+2023,Senior,Full-time,Data Scientist,215050,USD,215050,US,Full-Remote,US,MEDIUM,21505.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,Full-Remote,US,MEDIUM,15640.0
+2023,Senior,Full-time,Data Architect,198000,USD,198000,US,Full-Remote,US,MEDIUM,19800.0
+2023,Senior,Full-time,Data Architect,114000,USD,114000,US,Full-Remote,US,MEDIUM,11400.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Entry level,Full-time,Data Analyst,60000,USD,60000,US,Full-Remote,US,MEDIUM,6000.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Senior,Full-time,Data Scientist,209300,USD,209300,US,Full-Remote,US,MEDIUM,20930.0
+2023,Senior,Full-time,Data Scientist,182200,USD,182200,US,Full-Remote,US,MEDIUM,18220.0
+2023,Senior,Full-time,Data Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Manager,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2022,Entry level,Full-time,Data Scientist,85000,USD,85000,US,On-Site,US,MEDIUM,17000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,40000,GBP,48609,GB,Full-Remote,GB,MEDIUM,4000.0
+2023,Entry level,Full-time,Research Engineer,120000,USD,120000,GB,Full-Remote,GB,MEDIUM,12000.0
+2023,Entry level,Full-time,Research Engineer,60000,USD,60000,GB,Full-Remote,GB,MEDIUM,6000.0
+2023,Senior,Full-time,Machine Learning Engineer,147100,USD,147100,US,On-Site,US,MEDIUM,14710.0
+2023,Senior,Full-time,Machine Learning Engineer,90700,USD,90700,US,On-Site,US,MEDIUM,9070.0
+2023,Senior,Full-time,Data Engineer,230000,USD,230000,US,On-Site,US,MEDIUM,23000.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Analyst,227000,USD,227000,US,On-Site,US,MEDIUM,22700.0
+2023,Senior,Full-time,Data Analyst,108000,USD,108000,US,On-Site,US,MEDIUM,10800.0
+2023,Senior,Full-time,Data Engineer,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Architect,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Architect,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,52000,EUR,55800,ES,Full-Remote,ES,MEDIUM,5200.0
+2023,Senior,Full-time,Data Analyst,48000,EUR,51508,ES,Full-Remote,ES,MEDIUM,4800.0
+2023,Entry level,Full-time,Data Analyst,60000,USD,60000,US,Full-Remote,US,LARGE,6000.0
+2023,Entry level,Full-time,Data Analyst,50000,USD,50000,KW,Half-Remote,US,LARGE,5000.0
+2023,Senior,Full-time,Data Engineer,226700,USD,226700,US,On-Site,US,MEDIUM,22670.0
+2023,Senior,Full-time,Data Engineer,133300,USD,133300,US,On-Site,US,MEDIUM,13330.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Big Data Architect,124999,GBP,151902,GB,Full-Remote,GB,LARGE,12499.9
+2023,Entry level,Full-time,Data Scientist,800000,INR,9727,IN,On-Site,IN,LARGE,80000.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Analyst,52500,USD,52500,US,On-Site,US,MEDIUM,5250.0
+2023,Senior,Full-time,Data Engineer,250000,USD,250000,US,Full-Remote,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Engineer,162500,USD,162500,US,Full-Remote,US,MEDIUM,16250.0
+2023,Entry level,Full-time,Data Analyst,85000,USD,85000,US,Full-Remote,US,MEDIUM,8500.0
+2023,Entry level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,124000,USD,124000,US,On-Site,US,MEDIUM,12400.0
+2023,Senior,Full-time,Data Analyst,115934,USD,115934,US,Full-Remote,US,MEDIUM,11593.4
+2023,Senior,Full-time,Data Analyst,81666,USD,81666,US,Full-Remote,US,MEDIUM,8166.6
+2023,Senior,Full-time,Data Engineer,167580,USD,167580,US,On-Site,US,MEDIUM,16758.0
+2023,Senior,Full-time,Data Engineer,87980,USD,87980,US,On-Site,US,MEDIUM,8798.0
+2023,Senior,Full-time,Data Engineer,250000,USD,250000,US,Full-Remote,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Engineer,63000,USD,63000,US,Full-Remote,US,MEDIUM,6300.0
+2023,Senior,Full-time,Research Scientist,253750,USD,253750,ES,On-Site,ES,MEDIUM,25375.0
+2023,Senior,Full-time,Research Scientist,169200,USD,169200,ES,On-Site,ES,MEDIUM,16920.0
+2023,Senior,Full-time,Research Scientist,253750,USD,253750,ES,On-Site,ES,MEDIUM,25375.0
+2023,Senior,Full-time,Research Scientist,169200,USD,169200,ES,On-Site,ES,MEDIUM,16920.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,124740,USD,124740,US,On-Site,US,MEDIUM,12474.0
+2023,Senior,Full-time,Data Engineer,65488,USD,65488,US,On-Site,US,MEDIUM,6548.8
+2023,Senior,Full-time,Data Engineer,213580,USD,213580,US,Full-Remote,US,MEDIUM,21358.0
+2023,Senior,Full-time,Data Engineer,163625,USD,163625,US,Full-Remote,US,MEDIUM,16362.5
+2023,Entry level,Full-time,Data Engineer,12000,USD,12000,VN,On-Site,VN,LARGE,1200.0
+2022,Senior,Full-time,Machine Learning Software Engineer,375000,USD,375000,US,Full-Remote,US,MEDIUM,75000.0
+2023,Senior,Full-time,Data Engineer,95000,EUR,101943,IE,Full-Remote,IE,MEDIUM,9500.0
+2023,Mid/Intermediate level,Full-time,Product Data Analyst,1350000,INR,16414,IN,Full-Remote,IN,LARGE,135000.0
+2023,Senior,Full-time,Machine Learning Engineer,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,Machine Learning Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Executive level,Full-time,Data Engineer,235000,USD,235000,US,On-Site,US,MEDIUM,23500.0
+2023,Executive level,Full-time,Data Engineer,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Data Architect,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Architect,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Architect,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Architect,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Science Manager,231250,USD,231250,US,Full-Remote,US,MEDIUM,23125.0
+2023,Senior,Full-time,Data Science Manager,138750,USD,138750,US,Full-Remote,US,MEDIUM,13875.0
+2023,Senior,Full-time,Machine Learning Engineer,284310,USD,284310,US,On-Site,US,MEDIUM,28431.0
+2023,Senior,Full-time,Machine Learning Engineer,153090,USD,153090,US,On-Site,US,MEDIUM,15309.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,90000,GBP,109371,GB,On-Site,GB,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,70000,GBP,85066,GB,On-Site,GB,MEDIUM,7000.0
+2023,Entry level,Full-time,Data Analyst,55000,USD,55000,US,On-Site,US,MEDIUM,5500.0
+2023,Entry level,Full-time,Data Analyst,48000,USD,48000,US,On-Site,US,MEDIUM,4800.0
+2023,Entry level,Full-time,Data Analyst,100000,USD,100000,US,Half-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Science Lead,225900,USD,225900,US,On-Site,US,MEDIUM,22590.0
+2023,Senior,Full-time,Data Science Lead,156400,USD,156400,US,On-Site,US,MEDIUM,15640.0
+2023,Senior,Full-time,Data Engineer,250000,USD,250000,US,Full-Remote,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Engineer,162500,USD,162500,US,Full-Remote,US,MEDIUM,16250.0
+2023,Senior,Full-time,Machine Learning Engineer,318300,USD,318300,US,Full-Remote,US,MEDIUM,31830.0
+2023,Senior,Full-time,Machine Learning Engineer,188800,USD,188800,US,Full-Remote,US,MEDIUM,18880.0
+2023,Senior,Full-time,Data Analyst,385000,USD,385000,US,On-Site,US,MEDIUM,38500.0
+2023,Senior,Full-time,Data Analyst,60000,USD,60000,US,On-Site,US,MEDIUM,6000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,95000,USD,95000,US,Full-Remote,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Scientist,135000,USD,135000,US,Full-Remote,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Analyst,180180,USD,180180,US,On-Site,US,MEDIUM,18018.0
+2023,Senior,Full-time,Data Analyst,106020,USD,106020,US,On-Site,US,MEDIUM,10602.0
+2023,Senior,Full-time,Data Analyst,93919,USD,93919,US,Full-Remote,US,MEDIUM,9391.9
+2023,Senior,Full-time,Data Analyst,51962,USD,51962,US,Full-Remote,US,MEDIUM,5196.2
+2023,Senior,Full-time,Data Engineer,241871,USD,241871,US,On-Site,US,MEDIUM,24187.1
+2023,Senior,Full-time,Data Engineer,133832,USD,133832,US,On-Site,US,MEDIUM,13383.2
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Executive level,Full-time,Data Engineer,210914,USD,210914,US,Full-Remote,US,MEDIUM,21091.4
+2023,Executive level,Full-time,Data Engineer,116704,USD,116704,US,Full-Remote,US,MEDIUM,11670.4
+2023,Senior,Full-time,Data Analyst,192500,USD,192500,US,Full-Remote,US,MEDIUM,19250.0
+2023,Senior,Full-time,Data Analyst,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,149076,USD,149076,US,On-Site,US,MEDIUM,14907.6
+2023,Senior,Full-time,Data Scientist,82365,USD,82365,US,On-Site,US,MEDIUM,8236.5
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,36000,USD,36000,MX,Full-Remote,MX,SMALL,3600.0
+2023,Senior,Full-time,Data Scientist,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,148750,USD,148750,US,On-Site,US,MEDIUM,14875.0
+2023,Senior,Full-time,Research Scientist,370000,USD,370000,US,On-Site,US,MEDIUM,37000.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Scientist,235000,USD,235000,US,Full-Remote,US,MEDIUM,23500.0
+2023,Senior,Full-time,Data Scientist,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,100000,GBP,121523,GB,On-Site,GB,MEDIUM,10000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,80000,GBP,97218,GB,On-Site,GB,MEDIUM,8000.0
+2023,Senior,Full-time,Data Scientist,216100,USD,216100,US,On-Site,US,MEDIUM,21610.0
+2023,Senior,Full-time,Data Scientist,140800,USD,140800,US,On-Site,US,MEDIUM,14080.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,120000,GBP,145828,GB,On-Site,GB,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,100000,GBP,121523,GB,On-Site,GB,MEDIUM,10000.0
+2023,Senior,Full-time,Computer Vision Software Engineer,50000,EUR,53654,NL,Full-Remote,CA,LARGE,5000.0
+2023,Entry level,Full-time,Data Scientist,110000,USD,110000,US,Half-Remote,US,SMALL,11000.0
+2023,Senior,Full-time,Data Engineer,128000,USD,128000,US,On-Site,US,MEDIUM,12800.0
+2023,Senior,Full-time,Data Engineer,81500,USD,81500,US,On-Site,US,MEDIUM,8150.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,55000,GBP,66837,GB,Full-Remote,GB,MEDIUM,5500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,52000,GBP,63192,GB,Full-Remote,GB,MEDIUM,5200.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,50000,GBP,60761,GB,On-Site,GB,MEDIUM,5000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,45000,GBP,54685,GB,On-Site,GB,MEDIUM,4500.0
+2023,Executive level,Full-time,Data Engineer,284000,USD,284000,US,Full-Remote,US,MEDIUM,28400.0
+2023,Executive level,Full-time,Data Engineer,236000,USD,236000,US,Full-Remote,US,MEDIUM,23600.0
+2023,Senior,Full-time,Research Scientist,248100,USD,248100,CA,On-Site,CA,MEDIUM,24810.0
+2023,Senior,Full-time,Research Scientist,145900,USD,145900,CA,On-Site,CA,MEDIUM,14590.0
+2023,Senior,Full-time,Research Engineer,155850,USD,155850,US,On-Site,US,MEDIUM,15585.0
+2023,Senior,Full-time,Research Engineer,102544,USD,102544,US,On-Site,US,MEDIUM,10254.4
+2023,Mid/Intermediate level,Full-time,Data Scientist,151410,USD,151410,US,Full-Remote,US,MEDIUM,15141.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,115360,USD,115360,US,Full-Remote,US,MEDIUM,11536.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,62000,EUR,66531,ES,Full-Remote,ES,MEDIUM,6200.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,55000,EUR,59020,ES,Full-Remote,ES,MEDIUM,5500.0
+2023,Senior,Full-time,Director of Data Science,170000,CAD,125686,CA,Half-Remote,CA,MEDIUM,17000.0
+2023,Senior,Full-time,Azure Data Engineer,100000,USD,100000,NL,Half-Remote,NL,LARGE,10000.0
+2023,Entry level,Full-time,Data Scientist,1050000,INR,12767,IN,Half-Remote,IN,LARGE,105000.0
+2023,Senior,Full-time,Data Scientist,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Scientist,162500,USD,162500,US,On-Site,US,MEDIUM,16250.0
+2023,Senior,Full-time,Data Scientist,185000,USD,185000,GB,On-Site,GB,MEDIUM,18500.0
+2023,Senior,Full-time,Data Scientist,120250,USD,120250,GB,On-Site,GB,MEDIUM,12025.0
+2023,Entry level,Full-time,Data Engineer,25000,EUR,26827,DE,Full-Remote,DE,LARGE,2500.0
+2022,Entry level,Full-time,Data Scientist,180000,USD,180000,US,Full-Remote,US,MEDIUM,36000.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Mid/Intermediate level,Full-time,Research Scientist,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,BI Developer,135000,USD,135000,US,Full-Remote,US,MEDIUM,13500.0
+2023,Senior,Full-time,BI Developer,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Executive level,Full-time,Data Analytics Manager,155000,USD,155000,US,On-Site,US,MEDIUM,15500.0
+2023,Executive level,Full-time,Data Analytics Manager,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Senior,Full-time,Data Engineer,226700,USD,226700,US,On-Site,US,MEDIUM,22670.0
+2023,Senior,Full-time,Data Engineer,133300,USD,133300,US,On-Site,US,MEDIUM,13330.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,Full-Remote,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,Full-Remote,US,MEDIUM,15640.0
+2023,Senior,Full-time,Data Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Data Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,Machine Learning Engineer,163800,USD,163800,US,On-Site,US,MEDIUM,16380.0
+2023,Senior,Full-time,Machine Learning Engineer,126000,USD,126000,US,On-Site,US,MEDIUM,12600.0
+2023,Senior,Full-time,ML Engineer,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,ML Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Analytics Manager,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Data Analytics Manager,138900,USD,138900,US,On-Site,US,MEDIUM,13890.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,162500,USD,162500,US,On-Site,US,MEDIUM,16250.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Engineer,107000,USD,107000,US,Full-Remote,US,MEDIUM,10700.0
+2023,Executive level,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Executive level,Full-time,Data Engineer,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Engineer,226700,USD,226700,US,On-Site,US,MEDIUM,22670.0
+2023,Senior,Full-time,Data Engineer,133300,USD,133300,US,On-Site,US,MEDIUM,13330.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Machine Learning Engineer,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,On-Site,US,MEDIUM,15640.0
+2022,Mid/Intermediate level,Full-time,Research Scientist,23000,USD,23000,IN,Full-Remote,IN,LARGE,4600.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,110000,USD,110000,US,Full-Remote,US,LARGE,11000.0
+2023,Senior,Full-time,Data Engineer,265000,USD,265000,US,Full-Remote,US,MEDIUM,26500.0
+2023,Senior,Full-time,Data Engineer,182750,USD,182750,US,Full-Remote,US,MEDIUM,18275.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Analyst,153600,USD,153600,US,On-Site,US,MEDIUM,15360.0
+2023,Senior,Full-time,Data Analyst,106800,USD,106800,US,On-Site,US,MEDIUM,10680.0
+2023,Senior,Full-time,Data Engineer,137500,USD,137500,US,On-Site,US,MEDIUM,13750.0
+2023,Senior,Full-time,Data Engineer,81500,USD,81500,US,On-Site,US,MEDIUM,8150.0
+2023,Executive level,Full-time,Head of Data Science,314100,USD,314100,US,On-Site,US,MEDIUM,31410.0
+2023,Executive level,Full-time,Head of Data Science,195800,USD,195800,US,On-Site,US,MEDIUM,19580.0
+2023,Senior,Full-time,Applied Scientist,205000,USD,205000,US,On-Site,US,MEDIUM,20500.0
+2023,Senior,Full-time,Applied Scientist,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Scientist,165000,USD,165000,US,Full-Remote,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Scientist,144000,USD,144000,US,Full-Remote,US,MEDIUM,14400.0
+2023,Entry level,Full-time,BI Developer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,BI Developer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Executive level,Full-time,Data Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Executive level,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Manager,199000,USD,199000,US,On-Site,US,MEDIUM,19900.0
+2023,Senior,Full-time,Data Manager,112000,USD,112000,US,On-Site,US,MEDIUM,11200.0
+2023,Senior,Full-time,Data Scientist,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Senior,Full-time,Data Scientist,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Entry level,Full-time,Big Data Engineer,130000,USD,130000,SE,Full-Remote,SE,SMALL,13000.0
+2023,Senior,Full-time,Data Analyst,180180,USD,180180,US,On-Site,US,MEDIUM,18018.0
+2023,Senior,Full-time,Data Analyst,106020,USD,106020,US,On-Site,US,MEDIUM,10602.0
+2023,Entry level,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,Data Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Scientist,183000,USD,183000,US,On-Site,US,MEDIUM,18300.0
+2023,Senior,Full-time,Data Scientist,134000,USD,134000,US,On-Site,US,MEDIUM,13400.0
+2023,Senior,Full-time,Machine Learning Engineer,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Applied Scientist,350000,USD,350000,US,On-Site,US,LARGE,35000.0
+2023,Senior,Full-time,Applied Scientist,262500,USD,262500,US,On-Site,US,LARGE,26250.0
+2023,Senior,Full-time,Data Analyst,122000,USD,122000,US,On-Site,US,MEDIUM,12200.0
+2023,Senior,Full-time,Data Analyst,94000,USD,94000,US,On-Site,US,MEDIUM,9400.0
+2023,Senior,Full-time,Machine Learning Engineer,276000,USD,276000,US,On-Site,US,MEDIUM,27600.0
+2023,Senior,Full-time,Machine Learning Engineer,184000,USD,184000,US,On-Site,US,MEDIUM,18400.0
+2023,Executive level,Full-time,Data Engineer,310000,USD,310000,US,Full-Remote,US,MEDIUM,31000.0
+2023,Executive level,Full-time,Data Engineer,239000,USD,239000,US,Full-Remote,US,MEDIUM,23900.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,Full-Remote,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,Full-Remote,US,MEDIUM,15640.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Scientist,228000,USD,228000,US,On-Site,US,MEDIUM,22800.0
+2023,Senior,Full-time,Data Scientist,152000,USD,152000,US,On-Site,US,MEDIUM,15200.0
+2023,Senior,Full-time,Data Scientist,209450,USD,209450,US,Full-Remote,US,MEDIUM,20945.0
+2023,Senior,Full-time,Data Scientist,158677,USD,158677,US,Full-Remote,US,MEDIUM,15867.7
+2023,Senior,Full-time,Data Analyst,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Analyst,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Engineer,240000,USD,240000,US,On-Site,US,MEDIUM,24000.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,103200,USD,103200,US,On-Site,US,MEDIUM,10320.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,61200,USD,61200,US,On-Site,US,MEDIUM,6120.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,155000,USD,155000,US,Full-Remote,US,LARGE,31000.0
+2021,Entry level,Full-time,Marketing Data Engineer,90000,SGD,66970,SG,Half-Remote,SG,LARGE,27000.0
+2023,Senior,Full-time,Data Scientist,59000,EUR,63312,CY,Half-Remote,EE,LARGE,5900.0
+2023,Senior,Full-time,Data Scientist,237000,USD,237000,US,Full-Remote,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Scientist,240000,USD,240000,US,Full-Remote,US,MEDIUM,24000.0
+2023,Senior,Full-time,Data Scientist,139000,USD,139000,US,Full-Remote,US,MEDIUM,13900.0
+2023,Senior,Full-time,Data Architect,174500,USD,174500,US,On-Site,US,MEDIUM,17450.0
+2023,Senior,Full-time,Data Architect,113000,USD,113000,US,On-Site,US,MEDIUM,11300.0
+2023,Senior,Full-time,Data Analyst,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,87000,USD,87000,US,Full-Remote,US,MEDIUM,8700.0
+2023,Senior,Full-time,Data Analyst,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Analyst,108000,USD,108000,US,Full-Remote,US,MEDIUM,10800.0
+2023,Senior,Full-time,Data Engineer,165000,USD,165000,US,Full-Remote,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Engineer,107250,USD,107250,US,Full-Remote,US,MEDIUM,10725.0
+2023,Senior,Full-time,Data Engineer,300000,USD,300000,US,On-Site,US,MEDIUM,30000.0
+2023,Senior,Full-time,Data Engineer,119000,USD,119000,US,On-Site,US,MEDIUM,11900.0
+2023,Senior,Full-time,Data Scientist,285800,USD,285800,US,Full-Remote,US,MEDIUM,28580.0
+2023,Senior,Full-time,Data Scientist,154600,USD,154600,US,Full-Remote,US,MEDIUM,15460.0
+2023,Mid/Intermediate level,Full-time,Head of Data Science,5000000,INR,60795,IN,Half-Remote,IN,LARGE,500000.0
+2023,Entry level,Full-time,Data Analyst,30000,USD,30000,AR,Full-Remote,US,SMALL,3000.0
+2023,Mid/Intermediate level,Full-time,Data Science Manager,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Mid/Intermediate level,Full-time,Data Science Manager,195000,USD,195000,US,On-Site,US,MEDIUM,19500.0
+2023,Senior,Full-time,Data Manager,168400,USD,168400,US,On-Site,US,MEDIUM,16840.0
+2023,Senior,Full-time,Data Manager,105200,USD,105200,US,On-Site,US,MEDIUM,10520.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,206000,USD,206000,US,On-Site,US,MEDIUM,20600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Analytics Engineer,200000,USD,200000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Analytics Engineer,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Analytics Engineer,231250,USD,231250,US,Full-Remote,US,MEDIUM,23125.0
+2023,Senior,Full-time,Analytics Engineer,138750,USD,138750,US,Full-Remote,US,MEDIUM,13875.0
+2023,Senior,Full-time,Data Engineer,153000,USD,153000,CA,Full-Remote,CA,MEDIUM,15300.0
+2023,Senior,Full-time,Data Engineer,94000,USD,94000,CA,Full-Remote,CA,MEDIUM,9400.0
+2023,Senior,Full-time,Data Engineer,240500,USD,240500,US,On-Site,US,LARGE,24050.0
+2023,Senior,Full-time,Data Engineer,123700,USD,123700,US,On-Site,US,LARGE,12370.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Entry level,Full-time,Data Scientist,124234,USD,124234,US,On-Site,US,MEDIUM,12423.4
+2023,Entry level,Full-time,Data Scientist,74540,USD,74540,US,On-Site,US,MEDIUM,7454.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,109000,USD,109000,US,On-Site,US,MEDIUM,10900.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,79000,USD,79000,US,On-Site,US,MEDIUM,7900.0
+2022,Senior,Full-time,Machine Learning Engineer,80000,EUR,84053,FR,Half-Remote,FR,LARGE,16000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,50000,USD,50000,AM,On-Site,AM,SMALL,5000.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183500,USD,183500,US,Full-Remote,US,MEDIUM,18350.0
+2023,Senior,Full-time,Data Scientist,275300,USD,275300,US,Full-Remote,US,MEDIUM,27530.0
+2023,Senior,Full-time,Data Scientist,183500,USD,183500,US,Full-Remote,US,MEDIUM,18350.0
+2023,Senior,Full-time,Data Analyst,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Analyst,125600,USD,125600,US,Full-Remote,US,MEDIUM,12560.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Analyst,141290,USD,141290,US,On-Site,US,MEDIUM,14129.0
+2023,Senior,Full-time,Data Analyst,74178,USD,74178,US,On-Site,US,MEDIUM,7417.8
+2023,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Engineer,85000,USD,85000,US,Full-Remote,US,MEDIUM,8500.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Engineer,220000,USD,220000,US,On-Site,US,MEDIUM,22000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,205600,USD,205600,US,Full-Remote,US,MEDIUM,20560.0
+2023,Senior,Full-time,Data Engineer,107500,USD,107500,US,Full-Remote,US,MEDIUM,10750.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,95000,USD,95000,US,On-Site,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Engineer,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Engineer,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Entry level,Full-time,Data Scientist,1060000,INR,12888,IN,Half-Remote,IN,SMALL,106000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,136000,USD,136000,US,Full-Remote,US,MEDIUM,13600.0
+2023,Senior,Full-time,Data Scientist,104000,USD,104000,US,Full-Remote,US,MEDIUM,10400.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,52500,USD,52500,US,On-Site,US,MEDIUM,5250.0
+2023,Senior,Full-time,Data Scientist,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Scientist,84000,USD,84000,US,Full-Remote,US,MEDIUM,8400.0
+2023,Senior,Full-time,BI Analyst,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,BI Analyst,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,ML Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,ML Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2022,Entry level,Full-time,Business Data Analyst,48000,USD,48000,US,Half-Remote,US,LARGE,9600.0
+2023,Entry level,Full-time,AI Developer,120000,USD,120000,BA,Half-Remote,BA,SMALL,12000.0
+2023,Senior,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,On-Site,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Engineer,252000,USD,252000,US,On-Site,US,MEDIUM,25200.0
+2023,Senior,Full-time,Data Engineer,129000,USD,129000,US,On-Site,US,MEDIUM,12900.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,226700,USD,226700,US,On-Site,US,MEDIUM,22670.0
+2023,Senior,Full-time,Data Engineer,133300,USD,133300,US,On-Site,US,MEDIUM,13330.0
+2023,Senior,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,19000.0
+2023,Senior,Full-time,Data Scientist,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Scientist,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Scientist,156400,USD,156400,US,On-Site,US,MEDIUM,15640.0
+2023,Senior,Full-time,Computer Vision Engineer,200000,USD,200000,US,Full-Remote,US,SMALL,20000.0
+2023,Mid/Intermediate level,Full-time,Applied Data Scientist,80000,USD,80000,KE,Full-Remote,KE,SMALL,8000.0
+2023,Entry level,Full-time,Business Data Analyst,12000,EUR,12877,GR,Half-Remote,GR,LARGE,1200.0
+2022,Entry level,Full-time,AI Developer,6000,EUR,6304,MK,On-Site,MK,SMALL,1200.0
+2023,Mid/Intermediate level,Full-time,Data Analytics Lead,1440000,INR,17509,IN,Half-Remote,SG,MEDIUM,144000.0
+2023,Senior,Full-time,Data Scientist,257000,USD,257000,US,On-Site,US,MEDIUM,25700.0
+2023,Senior,Full-time,Data Scientist,134000,USD,134000,US,On-Site,US,MEDIUM,13400.0
+2023,Senior,Full-time,Data Scientist,72000,EUR,77262,LV,On-Site,LV,MEDIUM,7200.0
+2023,Senior,Full-time,Data Scientist,36000,EUR,38631,LV,On-Site,LV,MEDIUM,3600.0
+2023,Senior,Full-time,Data Engineer,205600,USD,205600,US,On-Site,US,LARGE,20560.0
+2023,Senior,Full-time,Data Engineer,105700,USD,105700,US,On-Site,US,LARGE,10570.0
+2023,Senior,Full-time,BI Developer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,BI Developer,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Science Manager,299500,USD,299500,US,On-Site,US,MEDIUM,29950.0
+2023,Senior,Full-time,Data Science Manager,245100,USD,245100,US,On-Site,US,MEDIUM,24510.0
+2023,Senior,Full-time,Research Scientist,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Research Scientist,151800,USD,151800,US,On-Site,US,MEDIUM,15180.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,50000,EUR,53654,RO,Half-Remote,RO,LARGE,5000.0
+2023,Senior,Full-time,Data Analyst,48000,EUR,51508,ES,On-Site,ES,MEDIUM,4800.0
+2023,Senior,Full-time,Data Analyst,38000,EUR,40777,ES,On-Site,ES,MEDIUM,3800.0
+2023,Senior,Full-time,Data Analyst,48000,EUR,51508,ES,On-Site,ES,MEDIUM,4800.0
+2023,Senior,Full-time,Data Analyst,38000,EUR,40777,ES,On-Site,ES,MEDIUM,3800.0
+2023,Entry level,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,Data Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,95000,USD,95000,US,Full-Remote,US,MEDIUM,9500.0
+2023,Senior,Full-time,Data Engineer,250000,USD,250000,US,Full-Remote,US,MEDIUM,25000.0
+2023,Senior,Full-time,Data Engineer,63000,USD,63000,US,Full-Remote,US,MEDIUM,6300.0
+2023,Senior,Full-time,Data Scientist,237000,USD,237000,US,Full-Remote,US,MEDIUM,23700.0
+2023,Senior,Full-time,Data Scientist,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Scientist,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Scientist,90000,USD,90000,US,Full-Remote,US,MEDIUM,9000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Architect,174500,USD,174500,US,On-Site,US,MEDIUM,17450.0
+2023,Senior,Full-time,Data Architect,113000,USD,113000,US,On-Site,US,MEDIUM,11300.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,183310,USD,183310,US,On-Site,US,MEDIUM,18331.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,183310,USD,183310,US,On-Site,US,MEDIUM,18331.0
+2023,Senior,Full-time,Data Analyst,145000,USD,145000,US,Full-Remote,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Analyst,102500,USD,102500,US,Full-Remote,US,MEDIUM,10250.0
+2023,Senior,Full-time,Data Scientist,205000,USD,205000,US,Full-Remote,US,MEDIUM,20500.0
+2023,Senior,Full-time,Data Scientist,185000,USD,185000,US,Full-Remote,US,MEDIUM,18500.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,87000,USD,87000,US,On-Site,US,MEDIUM,8700.0
+2023,Entry level,Full-time,Data Scientist,50000,USD,50000,IN,Full-Remote,US,MEDIUM,5000.0
+2023,Senior,Full-time,ML Engineer,234100,USD,234100,US,Full-Remote,US,MEDIUM,23410.0
+2023,Senior,Full-time,ML Engineer,203500,USD,203500,US,Full-Remote,US,MEDIUM,20350.0
+2023,Senior,Full-time,Data Scientist,223800,USD,223800,US,On-Site,US,MEDIUM,22380.0
+2023,Senior,Full-time,Data Scientist,172100,USD,172100,US,On-Site,US,MEDIUM,17210.0
+2023,Senior,Full-time,Data Scientist,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Data Engineer,232200,USD,232200,US,Full-Remote,US,MEDIUM,23220.0
+2023,Senior,Full-time,Data Engineer,167200,USD,167200,US,Full-Remote,US,MEDIUM,16720.0
+2023,Senior,Full-time,BI Developer,197000,USD,197000,US,On-Site,US,MEDIUM,19700.0
+2023,Senior,Full-time,BI Developer,106000,USD,106000,US,On-Site,US,MEDIUM,10600.0
+2023,Senior,Full-time,Research Scientist,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Senior,Full-time,Research Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Data Lead,225000,USD,225000,US,On-Site,US,MEDIUM,22500.0
+2023,Senior,Full-time,Data Lead,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Engineer,114000,USD,114000,US,Full-Remote,US,MEDIUM,11400.0
+2023,Senior,Full-time,Data Engineer,291500,USD,291500,US,On-Site,US,MEDIUM,29150.0
+2023,Senior,Full-time,Data Engineer,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Executive level,Full-time,Data Engineer,196200,USD,196200,US,On-Site,US,MEDIUM,19620.0
+2023,Executive level,Full-time,Data Engineer,150900,USD,150900,US,On-Site,US,MEDIUM,15090.0
+2023,Senior,Full-time,Data Scientist,168400,USD,168400,US,On-Site,US,MEDIUM,16840.0
+2023,Senior,Full-time,Data Scientist,105200,USD,105200,US,On-Site,US,MEDIUM,10520.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,95000,USD,95000,ES,Full-Remote,ES,MEDIUM,9500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,80000,USD,80000,ES,Full-Remote,ES,MEDIUM,8000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,116000,USD,116000,US,On-Site,US,MEDIUM,11600.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,72000,USD,72000,US,On-Site,US,MEDIUM,7200.0
+2023,Senior,Full-time,Analytics Engineer,207000,USD,207000,US,On-Site,US,MEDIUM,20700.0
+2023,Senior,Full-time,Analytics Engineer,167000,USD,167000,US,On-Site,US,MEDIUM,16700.0
+2023,Senior,Full-time,Machine Learning Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,14500.0
+2023,Senior,Full-time,Machine Learning Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,70000,USD,70000,US,On-Site,US,MEDIUM,7000.0
+2023,Senior,Full-time,Data Architect,180000,USD,180000,US,Full-Remote,US,MEDIUM,18000.0
+2023,Senior,Full-time,Data Architect,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Engineer,133800,USD,133800,US,Full-Remote,US,MEDIUM,13380.0
+2023,Senior,Full-time,Data Engineer,96100,USD,96100,US,Full-Remote,US,MEDIUM,9610.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,80000,USD,80000,US,On-Site,US,MEDIUM,8000.0
+2023,Senior,Full-time,Data Science Engineer,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Science Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Research Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Research Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Cloud Database Engineer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,Cloud Database Engineer,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,Data Science Manager,297300,USD,297300,US,Full-Remote,US,MEDIUM,29730.0
+2023,Senior,Full-time,Data Science Manager,198200,USD,198200,US,Full-Remote,US,MEDIUM,19820.0
+2023,Senior,Full-time,Data Scientist,297300,USD,297300,US,Full-Remote,US,MEDIUM,29730.0
+2023,Senior,Full-time,Data Scientist,198200,USD,198200,US,Full-Remote,US,MEDIUM,19820.0
+2023,Senior,Full-time,Data Engineer,202000,USD,202000,US,Full-Remote,US,MEDIUM,20200.0
+2023,Senior,Full-time,Data Engineer,135000,USD,135000,US,Full-Remote,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Scientist,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Scientist,84000,USD,84000,US,Full-Remote,US,MEDIUM,8400.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,219000,USD,219000,US,Half-Remote,US,LARGE,21900.0
+2023,Senior,Full-time,Applied Scientist,230000,USD,230000,US,Full-Remote,US,MEDIUM,23000.0
+2023,Senior,Full-time,Applied Scientist,196000,USD,196000,US,Full-Remote,US,MEDIUM,19600.0
+2023,Senior,Full-time,BI Developer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,BI Developer,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,110000,USD,110000,US,On-Site,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Scientist,185900,USD,185900,US,On-Site,US,MEDIUM,18590.0
+2023,Senior,Full-time,Data Scientist,129300,USD,129300,US,On-Site,US,MEDIUM,12930.0
+2023,Senior,Full-time,Applied Scientist,126100,USD,126100,US,On-Site,US,LARGE,12610.0
+2023,Senior,Full-time,Applied Scientist,72000,USD,72000,US,On-Site,US,LARGE,7200.0
+2023,Senior,Full-time,Data Engineer,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Analyst,240500,USD,240500,US,On-Site,US,MEDIUM,24050.0
+2023,Senior,Full-time,Data Analyst,137500,USD,137500,US,On-Site,US,MEDIUM,13750.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,187500,USD,187500,US,On-Site,US,MEDIUM,18750.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,165000,USD,165000,US,On-Site,US,MEDIUM,16500.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Research Engineer,60000,GBP,72914,GB,On-Site,GB,LARGE,6000.0
+2022,Entry level,Part-time,Data Analyst,24000,EUR,25216,ES,Full-Remote,US,LARGE,4800.0
+2023,Senior,Full-time,Research Scientist,210000,USD,210000,US,On-Site,US,MEDIUM,21000.0
+2023,Senior,Full-time,Research Scientist,165750,USD,165750,US,On-Site,US,MEDIUM,16575.0
+2023,Senior,Full-time,Machine Learning Scientist,225000,USD,225000,US,Full-Remote,US,MEDIUM,22500.0
+2023,Senior,Full-time,Machine Learning Scientist,165750,USD,165750,US,Full-Remote,US,MEDIUM,16575.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,89700,GBP,109006,GB,On-Site,GB,MEDIUM,8970.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,55250,GBP,67141,GB,On-Site,GB,MEDIUM,5525.0
+2023,Senior,Full-time,Data Scientist,135000,USD,135000,US,Full-Remote,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Scientist,115000,USD,115000,US,Full-Remote,US,MEDIUM,11500.0
+2023,Senior,Full-time,NLP Engineer,275000,USD,275000,US,On-Site,US,MEDIUM,27500.0
+2023,Senior,Full-time,NLP Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,17500.0
+2023,Senior,Full-time,Data Scientist,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,Full-Remote,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Engineer,175308,USD,175308,US,On-Site,US,MEDIUM,17530.8
+2023,Senior,Full-time,Data Engineer,100706,USD,100706,US,On-Site,US,MEDIUM,10070.6
+2023,Senior,Full-time,NLP Engineer,235000,USD,235000,US,On-Site,US,MEDIUM,23500.0
+2023,Senior,Full-time,NLP Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2023,Senior,Full-time,Data Engineer,310000,USD,310000,US,On-Site,US,MEDIUM,31000.0
+2023,Senior,Full-time,Data Engineer,229000,USD,229000,US,On-Site,US,MEDIUM,22900.0
+2023,Senior,Full-time,ML Engineer,289076,USD,289076,US,On-Site,US,MEDIUM,28907.6
+2023,Senior,Full-time,ML Engineer,202353,USD,202353,US,On-Site,US,MEDIUM,20235.3
+2023,Senior,Full-time,Data Engineer,65000,EUR,69751,PT,On-Site,PT,MEDIUM,6500.0
+2023,Senior,Full-time,Data Engineer,35000,EUR,37558,PT,On-Site,PT,MEDIUM,3500.0
+2023,Mid/Intermediate level,Full-time,Research Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Research Engineer,100000,USD,100000,US,Full-Remote,US,MEDIUM,10000.0
+2023,Senior,Full-time,Data Engineer,226700,USD,226700,US,On-Site,US,MEDIUM,22670.0
+2023,Senior,Full-time,Data Engineer,133300,USD,133300,US,On-Site,US,MEDIUM,13330.0
+2023,Senior,Full-time,Data Analyst,125000,USD,125000,US,On-Site,US,MEDIUM,12500.0
+2023,Senior,Full-time,Data Analyst,85000,USD,85000,US,On-Site,US,MEDIUM,8500.0
+2023,Senior,Full-time,Data Analyst,130000,USD,130000,US,Full-Remote,US,MEDIUM,13000.0
+2023,Senior,Full-time,Data Analyst,80000,USD,80000,US,Full-Remote,US,MEDIUM,8000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2021,Senior,Full-time,Data Scientist,4000000,INR,54094,IN,Full-Remote,IN,LARGE,1200000.0
+2022,Mid/Intermediate level,Full-time,Business Data Analyst,1440000,INR,18314,IN,Half-Remote,IN,LARGE,288000.0
+2023,Senior,Full-time,Data Engineer,231250,USD,231250,US,Full-Remote,US,MEDIUM,23125.0
+2023,Senior,Full-time,Data Engineer,138750,USD,138750,US,Full-Remote,US,MEDIUM,13875.0
+2023,Senior,Full-time,Data Engineer,199000,USD,199000,US,On-Site,US,MEDIUM,19900.0
+2023,Senior,Full-time,Data Engineer,162000,USD,162000,US,On-Site,US,MEDIUM,16200.0
+2023,Entry level,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,Data Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2022,Entry level,Full-time,Data Scientist,100000,USD,100000,US,Full-Remote,US,MEDIUM,20000.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Research Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Entry level,Full-time,Research Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,Research Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Research Scientist,250000,USD,250000,US,On-Site,US,MEDIUM,25000.0
+2023,Senior,Full-time,Research Scientist,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Entry level,Full-time,Deep Learning Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Entry level,Full-time,Deep Learning Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Research Engineer,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Senior,Full-time,Research Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2022,Senior,Full-time,Data Analytics Manager,133000,USD,133000,NL,On-Site,NL,LARGE,26600.0
+2023,Senior,Full-time,Data Scientist,272550,USD,272550,US,On-Site,US,MEDIUM,27255.0
+2023,Senior,Full-time,Data Scientist,198200,USD,198200,US,On-Site,US,MEDIUM,19820.0
+2023,Senior,Full-time,Data Scientist,182000,USD,182000,US,On-Site,US,MEDIUM,18200.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,20000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,105000,USD,105000,US,On-Site,US,MEDIUM,10500.0
+2023,Senior,Full-time,Data Engineer,187500,USD,187500,US,Full-Remote,US,MEDIUM,18750.0
+2023,Senior,Full-time,Data Engineer,175000,USD,175000,US,Full-Remote,US,MEDIUM,17500.0
+2023,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,20450.0
+2023,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,14220.0
+2023,Senior,Full-time,Data Analyst,155000,USD,155000,US,Full-Remote,US,MEDIUM,15500.0
+2023,Senior,Full-time,Data Analyst,64000,USD,64000,US,Full-Remote,US,MEDIUM,6400.0
+2023,Senior,Full-time,Computer Vision Engineer,235000,USD,235000,US,On-Site,US,MEDIUM,23500.0
+2023,Senior,Full-time,Computer Vision Engineer,185000,USD,185000,US,On-Site,US,MEDIUM,18500.0
+2023,Senior,Full-time,Data Architect,174500,USD,174500,US,On-Site,US,MEDIUM,17450.0
+2023,Senior,Full-time,Data Architect,113000,USD,113000,US,On-Site,US,MEDIUM,11300.0
+2023,Senior,Full-time,Data Scientist,143100,USD,143100,CA,On-Site,CA,MEDIUM,14310.0
+2023,Senior,Full-time,Data Scientist,113000,USD,113000,CA,On-Site,CA,MEDIUM,11300.0
+2023,Senior,Full-time,Applied Scientist,184000,USD,184000,US,Full-Remote,US,MEDIUM,18400.0
+2023,Senior,Full-time,Applied Scientist,142000,USD,142000,US,Full-Remote,US,MEDIUM,14200.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Data Architect,174500,USD,174500,US,On-Site,US,MEDIUM,17450.0
+2023,Senior,Full-time,Data Architect,113000,USD,113000,US,On-Site,US,MEDIUM,11300.0
+2023,Senior,Full-time,Data Scientist,180560,USD,180560,US,On-Site,US,MEDIUM,18056.0
+2023,Senior,Full-time,Data Scientist,115440,USD,115440,US,On-Site,US,MEDIUM,11544.0
+2023,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,14000.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,12000.0
+2023,Senior,Full-time,Research Scientist,248100,USD,248100,US,On-Site,US,MEDIUM,24810.0
+2023,Senior,Full-time,Research Scientist,145900,USD,145900,US,On-Site,US,MEDIUM,14590.0
+2023,Senior,Full-time,Data Scientist,120000,USD,120000,CA,On-Site,CA,MEDIUM,12000.0
+2023,Senior,Full-time,Data Scientist,110000,USD,110000,CA,On-Site,CA,MEDIUM,11000.0
+2023,Senior,Full-time,Data Engineer,291500,USD,291500,US,On-Site,US,MEDIUM,29150.0
+2023,Senior,Full-time,Data Engineer,180000,USD,180000,US,On-Site,US,MEDIUM,18000.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,62000,GBP,75344,GB,Full-Remote,GB,MEDIUM,6200.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,52000,GBP,63192,GB,Full-Remote,GB,MEDIUM,5200.0
+2023,Senior,Full-time,Data Engineer,161800,USD,161800,US,On-Site,US,MEDIUM,16180.0
+2023,Senior,Full-time,Data Engineer,141600,USD,141600,US,On-Site,US,MEDIUM,14160.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,48000,GBP,58331,GB,Full-Remote,GB,MEDIUM,4800.0
+2023,Mid/Intermediate level,Full-time,Machine Learning Engineer,38000,GBP,46178,GB,Full-Remote,GB,MEDIUM,3800.0
+2023,Senior,Full-time,Data Engineer,166000,USD,166000,US,Full-Remote,US,MEDIUM,16600.0
+2023,Senior,Full-time,Data Engineer,128000,USD,128000,US,Full-Remote,US,MEDIUM,12800.0
+2023,Senior,Full-time,Data Architect,170000,USD,170000,US,Full-Remote,US,MEDIUM,17000.0
+2023,Senior,Full-time,Data Architect,110000,USD,110000,US,Full-Remote,US,MEDIUM,11000.0
+2023,Senior,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,16000.0
+2023,Senior,Full-time,Data Engineer,75000,USD,75000,US,Full-Remote,US,MEDIUM,7500.0
+2023,Senior,Full-time,Data Engineer,236000,USD,236000,US,Full-Remote,US,MEDIUM,23600.0
+2023,Senior,Full-time,Data Engineer,182000,USD,182000,US,Full-Remote,US,MEDIUM,18200.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,1125000,INR,14307,IN,Full-Remote,IN,LARGE,225000.0
+2022,Entry level,Full-time,Data Scientist,130000,USD,130000,US,On-Site,US,MEDIUM,26000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,15000.0
+2023,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,10000.0
+2023,Senior,Full-time,Machine Learning Engineer,261500,USD,261500,US,On-Site,US,LARGE,26150.0
+2023,Senior,Full-time,Machine Learning Engineer,134500,USD,134500,US,On-Site,US,LARGE,13450.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,1100000,INR,13989,IN,Full-Remote,IN,LARGE,220000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,130000,USD,130000,US,On-Site,US,MEDIUM,13000.0
+2023,Mid/Intermediate level,Full-time,Data Scientist,90000,USD,90000,US,On-Site,US,MEDIUM,9000.0
+2023,Entry level,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,16000.0
+2023,Entry level,Full-time,Data Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,13500.0
+2022,Senior,Full-time,Manager Data Management,125000,USD,125000,US,Full-Remote,US,LARGE,25000.0
+2022,Senior,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,35000.0
+2022,Senior,Full-time,Data Engineer,155000,USD,155000,US,On-Site,US,MEDIUM,31000.0
+2022,Senior,Full-time,Data Engineer,153600,USD,153600,US,On-Site,US,MEDIUM,30720.0
+2022,Senior,Full-time,Data Engineer,106800,USD,106800,US,On-Site,US,MEDIUM,21360.0
+2022,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,30000.0
+2022,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,28000.0
+2022,Senior,Full-time,Data Science Consultant,122000,USD,122000,US,On-Site,US,MEDIUM,24400.0
+2022,Senior,Full-time,Data Science Consultant,94500,USD,94500,US,On-Site,US,MEDIUM,18900.0
+2022,Senior,Full-time,Data Engineer,170000,USD,170000,US,On-Site,US,MEDIUM,34000.0
+2022,Senior,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,26000.0
+2022,Senior,Full-time,Data Science Consultant,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Senior,Full-time,Data Science Consultant,128000,USD,128000,US,On-Site,US,MEDIUM,25600.0
+2022,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Senior,Full-time,Data Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Senior,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,35000.0
+2022,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Senior,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,23000.0
+2022,Senior,Full-time,Applied Machine Learning Scientist,150000,USD,150000,US,Full-Remote,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,150000,USD,150000,US,Full-Remote,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,127500,USD,127500,US,Full-Remote,US,MEDIUM,25500.0
+2022,Senior,Full-time,Data Scientist,126500,USD,126500,US,Full-Remote,US,MEDIUM,25300.0
+2022,Senior,Full-time,Data Scientist,51000,USD,51000,US,Full-Remote,US,MEDIUM,10200.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,260000,USD,260000,US,On-Site,US,MEDIUM,52000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,35000.0
+2022,Entry level,Full-time,Applied Data Scientist,40000,USD,40000,AU,Full-Remote,PK,MEDIUM,8000.0
+2022,Entry level,Full-time,AI Programmer,40000,USD,40000,PK,Full-Remote,AU,MEDIUM,8000.0
+2022,Senior,Full-time,Data Engineer,250000,USD,250000,US,Full-Remote,US,MEDIUM,50000.0
+2022,Senior,Full-time,Data Engineer,63000,USD,63000,US,Full-Remote,US,MEDIUM,12600.0
+2022,Senior,Full-time,Machine Learning Engineer,210000,USD,210000,US,Full-Remote,US,MEDIUM,42000.0
+2022,Senior,Full-time,Machine Learning Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,32000.0
+2022,Senior,Full-time,Data Scientist,272550,USD,272550,US,Full-Remote,US,MEDIUM,54510.0
+2022,Senior,Full-time,Data Scientist,198200,USD,198200,US,Full-Remote,US,MEDIUM,39640.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,90000,EUR,94560,FR,Full-Remote,FR,MEDIUM,18000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,50000,EUR,52533,FR,Full-Remote,FR,MEDIUM,10000.0
+2022,Senior,Full-time,Data Scientist,220000,USD,220000,US,On-Site,US,MEDIUM,44000.0
+2022,Senior,Full-time,Data Scientist,146000,USD,146000,US,On-Site,US,MEDIUM,29200.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Senior,Full-time,Machine Learning Software Engineer,248400,USD,248400,CA,Full-Remote,CA,MEDIUM,49680.0
+2022,Senior,Full-time,Machine Learning Software Engineer,183600,USD,183600,CA,Full-Remote,CA,MEDIUM,36720.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,30000.0
+2022,Entry level,Full-time,Machine Learning Developer,40000,USD,40000,PK,Full-Remote,AU,MEDIUM,8000.0
+2022,Senior,Full-time,Lead Data Scientist,4460000,INR,56723,IN,On-Site,IN,LARGE,892000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,95000,USD,95000,US,On-Site,US,MEDIUM,19000.0
+2022,Entry level,Full-time,Data Engineer,160000,USD,160000,US,On-Site,US,MEDIUM,32000.0
+2022,Entry level,Full-time,Data Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,27000.0
+2022,Entry level,Full-time,Data Science Consultant,23000,EUR,24165,IT,Half-Remote,IT,MEDIUM,4600.0
+2022,Senior,Full-time,Data Engineer,216000,USD,216000,US,Full-Remote,US,MEDIUM,43200.0
+2022,Senior,Full-time,Data Engineer,144000,USD,144000,US,Full-Remote,US,MEDIUM,28800.0
+2022,Entry level,Full-time,Data Engineer,85000,USD,85000,US,On-Site,US,MEDIUM,17000.0
+2022,Entry level,Full-time,Data Engineer,65000,USD,65000,US,On-Site,US,MEDIUM,13000.0
+2022,Senior,Full-time,Data Analyst,149000,USD,149000,US,Full-Remote,US,MEDIUM,29800.0
+2022,Senior,Full-time,Data Analyst,119000,USD,119000,US,Full-Remote,US,MEDIUM,23800.0
+2022,Senior,Full-time,Data Scientist,140000,USD,140000,US,On-Site,US,MEDIUM,28000.0
+2022,Senior,Full-time,Data Scientist,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,110000,USD,110000,US,On-Site,US,MEDIUM,22000.0
+2022,Senior,Full-time,Machine Learning Engineer,246000,USD,246000,US,Full-Remote,US,MEDIUM,49200.0
+2022,Senior,Full-time,Machine Learning Engineer,201000,USD,201000,US,Full-Remote,US,MEDIUM,40200.0
+2022,Senior,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,38000.0
+2022,Senior,Full-time,Data Scientist,155000,USD,155000,US,On-Site,US,MEDIUM,31000.0
+2022,Senior,Full-time,ML Engineer,235000,USD,235000,US,Full-Remote,US,MEDIUM,47000.0
+2022,Senior,Full-time,ML Engineer,185000,USD,185000,US,Full-Remote,US,MEDIUM,37000.0
+2022,Senior,Full-time,Cloud Database Engineer,190000,USD,190000,US,Full-Remote,US,MEDIUM,38000.0
+2022,Senior,Full-time,Cloud Database Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,32000.0
+2022,Entry level,Full-time,Product Data Analyst,100000,USD,100000,US,Full-Remote,US,MEDIUM,20000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,26000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,115000,USD,115000,US,On-Site,US,MEDIUM,23000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,75000,GBP,92350,GB,On-Site,GB,MEDIUM,15000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,55000,GBP,67723,GB,On-Site,GB,MEDIUM,11000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,105000,USD,105000,US,On-Site,US,MEDIUM,21000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,70000,USD,70000,US,On-Site,US,MEDIUM,14000.0
+2022,Senior,Full-time,Machine Learning Engineer,204500,USD,204500,US,On-Site,US,MEDIUM,40900.0
+2022,Senior,Full-time,Machine Learning Engineer,142200,USD,142200,US,On-Site,US,MEDIUM,28440.0
+2022,Senior,Full-time,Machine Learning Engineer,192000,USD,192000,US,Full-Remote,US,MEDIUM,38400.0
+2022,Senior,Full-time,Machine Learning Engineer,164000,USD,164000,US,Full-Remote,US,MEDIUM,32800.0
+2022,Senior,Full-time,Data Engineer,185900,USD,185900,US,On-Site,US,MEDIUM,37180.0
+2022,Senior,Full-time,Data Engineer,129300,USD,129300,US,On-Site,US,MEDIUM,25860.0
+2022,Senior,Full-time,Data Engineer,130000,USD,130000,US,On-Site,US,MEDIUM,26000.0
+2022,Senior,Full-time,Data Engineer,75000,USD,75000,US,On-Site,US,MEDIUM,15000.0
+2022,Senior,Full-time,Data Science Manager,175000,USD,175000,US,On-Site,US,MEDIUM,35000.0
+2022,Senior,Full-time,Data Science Manager,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Engineer,167500,USD,167500,US,On-Site,US,MEDIUM,33500.0
+2022,Senior,Full-time,Data Engineer,106500,USD,106500,US,On-Site,US,MEDIUM,21300.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,75000,USD,75000,US,Full-Remote,US,MEDIUM,15000.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,60000,USD,60000,US,Full-Remote,US,MEDIUM,12000.0
+2022,Senior,Full-time,Applied Scientist,184000,USD,184000,US,Full-Remote,US,MEDIUM,36800.0
+2022,Senior,Full-time,Applied Scientist,142000,USD,142000,US,Full-Remote,US,MEDIUM,28400.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Entry level,Full-time,Machine Learning Software Engineer,10000,USD,10000,MA,Half-Remote,MA,SMALL,2000.0
+2022,Mid/Intermediate level,Full-time,Data Scientist,2500000,INR,31795,IN,Full-Remote,US,MEDIUM,500000.0
+2022,Mid/Intermediate level,Full-time,NLP Engineer,198000,PLN,44365,PL,Full-Remote,PL,SMALL,39600.0
+2022,Senior,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,35000.0
+2022,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Engineer,175000,USD,175000,US,On-Site,US,MEDIUM,35000.0
+2022,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Executive level,Full-time,Data Engineer,200000,USD,200000,US,On-Site,US,MEDIUM,40000.0
+2022,Executive level,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,75000,GBP,92350,GB,Full-Remote,GB,MEDIUM,15000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,60000,GBP,73880,GB,Full-Remote,GB,MEDIUM,12000.0
+2022,Senior,Full-time,Data Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Senior,Full-time,Data Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Senior,Full-time,Applied Scientist,192000,USD,192000,US,Full-Remote,US,MEDIUM,38400.0
+2022,Senior,Full-time,Applied Scientist,164000,USD,164000,US,Full-Remote,US,MEDIUM,32800.0
+2022,Executive level,Full-time,Data Engineer,310000,USD,310000,US,Full-Remote,US,MEDIUM,62000.0
+2022,Executive level,Full-time,Data Engineer,239000,USD,239000,US,Full-Remote,US,MEDIUM,47800.0
+2022,Senior,Full-time,Data Analyst,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Analyst,95000,USD,95000,US,On-Site,US,MEDIUM,19000.0
+2022,Senior,Full-time,Machine Learning Engineer,145000,USD,145000,US,On-Site,US,MEDIUM,29000.0
+2022,Senior,Full-time,Machine Learning Engineer,135000,USD,135000,US,On-Site,US,MEDIUM,27000.0
+2022,Senior,Full-time,Data Engineer,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Senior,Full-time,Data Engineer,78000,USD,78000,US,On-Site,US,MEDIUM,15600.0
+2022,Senior,Full-time,Data Engineer,70000,EUR,73546,ES,On-Site,ES,MEDIUM,14000.0
+2022,Senior,Full-time,Data Engineer,35000,EUR,36773,ES,On-Site,ES,MEDIUM,7000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,160000,USD,160000,US,Full-Remote,US,MEDIUM,32000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Scientist,190000,USD,190000,US,On-Site,US,MEDIUM,38000.0
+2022,Senior,Full-time,Data Scientist,150000,USD,150000,US,On-Site,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Engineer,2800000,INR,35610,IN,Half-Remote,IN,LARGE,560000.0
+2022,Senior,Full-time,AI Scientist,125000,USD,125000,CO,Full-Remote,CO,LARGE,25000.0
+2022,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Engineer,95000,USD,95000,US,On-Site,US,MEDIUM,19000.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,150000,USD,150000,US,On-Site,US,MEDIUM,30000.0
+2022,Mid/Intermediate level,Full-time,Data Analyst,100000,USD,100000,US,On-Site,US,MEDIUM,20000.0
+2022,Senior,Full-time,Data Scientist,45000,EUR,47280,ES,On-Site,ES,MEDIUM,9000.0
+2022,Senior,Full-time,Data Scientist,36000,EUR,37824,ES,On-Site,ES,MEDIUM,7200.0
+2022,Senior,Full-time,Data Analyst,115934,USD,115934,US,Full-Remote,US,MEDIUM,23186.8
+2022,Senior,Full-time,Data Analyst,81666,USD,81666,US,Full-Remote,US,MEDIUM,16333.2
+2022,Senior,Full-time,Data Scientist,175000,USD,175000,US,Full-Remote,US,MEDIUM,35000.0
+2022,Senior,Full-time,Data Scientist,140000,USD,140000,US,Full-Remote,US,MEDIUM,28000.0
+2022,Senior,Full-time,Data Engineer,120000,USD,120000,US,On-Site,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Engineer,95000,USD,95000,US,On-Site,US,MEDIUM,19000.0
+2022,Senior,Full-time,Research Engineer,249500,USD,249500,US,On-Site,US,MEDIUM,49900.0
+2022,Senior,Full-time,Research Engineer,149850,USD,149850,US,On-Site,US,MEDIUM,29970.0
+2022,Mid/Intermediate level,Full-time,Analytics Engineer,122500,USD,122500,US,Full-Remote,US,MEDIUM,24500.0
+2022,Mid/Intermediate level,Full-time,Analytics Engineer,100000,USD,100000,US,Full-Remote,US,MEDIUM,20000.0
+2022,Senior,Full-time,Data Scientist,249500,USD,249500,US,On-Site,US,MEDIUM,49900.0
+2022,Senior,Full-time,Data Scientist,149850,USD,149850,US,On-Site,US,MEDIUM,29970.0
+2022,Entry level,Full-time,Data Analyst,55000,USD,55000,US,On-Site,US,MEDIUM,11000.0
+2022,Entry level,Full-time,Data Analyst,48000,USD,48000,US,On-Site,US,MEDIUM,9600.0
+2022,Senior,Full-time,Research Scientist,249500,USD,249500,US,On-Site,US,MEDIUM,49900.0
+2022,Senior,Full-time,Research Scientist,149850,USD,149850,US,On-Site,US,MEDIUM,29970.0
+2022,Mid/Intermediate level,Full-time,Computer Vision Engineer,56000,EUR,58837,FR,Full-Remote,FR,SMALL,11200.0
+2022,Senior,Full-time,Data Engineer,190000,USD,190000,US,Full-Remote,US,MEDIUM,38000.0
+2022,Senior,Full-time,Data Engineer,120000,USD,120000,US,Full-Remote,US,MEDIUM,24000.0
+2022,Senior,Full-time,Data Analyst,127000,USD,127000,US,Full-Remote,US,MEDIUM,25400.0
+2022,Senior,Full-time,Data Analyst,104000,USD,104000,US,Full-Remote,US,MEDIUM,20800.0
+2022,Senior,Full-time,Data Scientist,210000,USD,210000,US,Full-Remote,US,MEDIUM,42000.0
+2022,Senior,Full-time,Data Scientist,150000,USD,150000,US,Full-Remote,US,MEDIUM,30000.0
+2022,Senior,Full-time,Machine Learning Engineer,210000,USD,210000,US,Full-Remote,US,MEDIUM,42000.0
+2022,Senior,Full-time,Machine Learning Engineer,150000,USD,150000,US,Full-Remote,US,MEDIUM,30000.0
+2022,Senior,Full-time,Data Engineer,210000,USD,210000,US,Full-Remote,US,MEDIUM,42000.0
+2022,Senior,Full-time,Data Engineer,130000,USD,130000,US,Full-Remote,US,MEDIUM,26000.0
+2022,Senior,Full-time,Data Scientist,182750,USD,182750,US,Full-Remote,US,MEDIUM,36550.0
